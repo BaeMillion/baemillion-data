@@ -1,6 +1,15 @@
 # baemillion-data
 Data source for the BaeMillion site
 
+# Publishing the data
+
+On push to `main` this repo will automatically publish the contents of `data/` and `public/` to GitHub Pages.
+
+The data will be available as `latest.tar.gz` and `latest.zip` which will be available at
+
+- https://data.baemillion.com/latest.tar.gz
+- https://data.baemillion.com/latest.zip
+
 # Processing data for the site
 
 There are two scripts used for processing CSVs containing Message submissions and Timeline events to be used for the website. They require Python along with two dependencies, `requests` and `pillow`.
