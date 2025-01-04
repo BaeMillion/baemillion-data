@@ -1,6 +1,7 @@
 import csv
 import html
 import json
+import regex as re
 import requests
 
 from argparse import ArgumentParser
@@ -15,7 +16,14 @@ def process(ctx, line):
     title = line[3] # D column for the chuuni title
     message = line[4] # E column for the message
     link = line[9] # J column for the media links
-    ctx.hash_id = md5(f"{name}+{title}".encode("utf-8")).hexdigest() # Generate a unique ID from name & title for use in sorting order and naming any associated files.
+
+    # Aggregate all the unique characters from the submitted text fields
+    ctx.unique_chars.update(name)
+    ctx.unique_chars.update(title)
+    ctx.unique_chars.update(message)
+
+    # Generate a unique ID from name & title for use in sorting order and naming any associated files.
+    ctx.hash_id = md5(f"{name}+{title}".encode("utf-8")).hexdigest()
     print(ctx.hash_id)
 
     msg = dict()
@@ -110,6 +118,28 @@ def download_image(ctx, image_url):
         print("Error getting image from ", image_url)
     return filepath, w, h, thumb_filepath, thumb_w, thumb_h
 
+def find_charsets(unique_chars):
+    regex_str = (
+        r"("
+        r"(?P<charset_sans_kr>\p{IsHangul})"
+        r"|"
+        r"(?P<charset_sans_jp>"
+        r"[\u2200-\u22FF]"
+        r"|"
+        r"[\u3000-\u9FFF]"
+        r"|"
+        r"[\uFF00-\uFFEF])"
+        r")"
+    )
+    pattern = re.compile(regex_str, re.UNICODE)
+
+    matches = pattern.findall("".join(unique_chars))
+    charset_sans_kr = "".join(kr_char for _, kr_char, _ in matches if kr_char)
+    charset_sans_jp = "".join(jp_char for _, _, jp_char in matches if jp_char)
+
+    return charset_sans_kr, charset_sans_jp
+
+
 if __name__ == "__main__":
     parser = ArgumentParser()
     parser.add_argument("spreadsheet_path")
@@ -117,6 +147,7 @@ if __name__ == "__main__":
     parser.add_argument("json_path")
     args = parser.parse_args()
     args.image_count = 0
+    args.unique_chars = set()
 
     messages = []
     with open(args.spreadsheet_path, "r", encoding="utf-8") as csvfile:
@@ -133,8 +164,11 @@ if __name__ == "__main__":
     output = Path(args.json_path)
     output.parent.mkdir(exist_ok=True, parents=True)
     with output.open("w", encoding="utf-8") as f:
+        charset_sans_kr, charset_sans_jp = find_charsets(args.unique_chars)
         # Sort messages by hash_id to shuffle away from submission order before writing
         data = {
-            "messages": sorted(messages, key=lambda msg: msg["id"])
+            "charset_sans_kr": charset_sans_kr,
+            "charset_sans_jp": charset_sans_jp,
+            "messages": sorted(messages, key=lambda msg: msg["id"]),
         }
         json.dump(data, f, ensure_ascii=False, indent=4)
