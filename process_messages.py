@@ -20,6 +20,10 @@ def process(ctx, line):
 
     msg = dict()
     msg["id"] = ctx.hash_id
+    if name == "Mikururun":
+        msg["decal_variant"] = 10 # Headpat decal
+    else:
+        msg["decal_variant"] = int(ctx.hash_id, 16) % 5
     msg["sender_name"] = name
     msg["sender_title"] = title
     msg["message"] = message
@@ -121,8 +125,8 @@ if __name__ == "__main__":
         for i, line in enumerate(reader, start=1):
             if line[10]: # Skip row if Column K (11th) isn't blank
                 continue
-            print(i, line)
             msg = process(args, line)
+            print(i, msg)
             messages.append(msg)
     
     print("Total number of images: ", args.image_count)
