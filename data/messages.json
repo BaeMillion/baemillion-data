@@ -1,4 +1,6 @@
 {
+    "charset_sans_kr": "쥐가의년제겠시트다활할봤화브일았위달렇분적볼오정은언원수마버팅모랑을장처꼭네니매과각하나요졌해텐베없귀느퍼부고벨래음보전으빠안강땃서랐면진운자몰게었났바써덕로첫목때터도최국너송야십든습던횟내한여무는있불몇미아튜심알어주번즈돈새생재줄창방헌데앞성축짱들지열독만멤채놀프노러사에말잃라얻웠소밌벌리그우대냥높힘좋를쁘돌명션뷔될솔슬동이응홀친인구까포했개",
+    "charset_sans_jp": "ば本）く加大謝嬉んゅ　董の（六タ叶〜望ジ円油応がてほごで弟ゃる身さ虚渇ネ活将万何起私パど動像者！ズ我にカ光。ぽかと名気憧夢ャ有元ハ愛、しう頑チよベ最た軒せや雜もマだ≦援ダらっ張ねオ鮮≧フろルえぱざお回れま妳じ推血貰べめ歌ンイ羅兄ェな登人は神当こ録談ちーぜぶをスすり上閃可きい好つ言あ",
     "messages": [
         {
             "id": "0126e9e20eca1b8bfbf58fb7203325e5",
@@ -6,6 +8,14 @@
             "sender_name": "Mahsell",
             "sender_title": "",
             "message": "Thank you for all the good times Bae! We are all proud of you! Let's have even more fun in the future!",
+            "media": null
+        },
+        {
+            "id": "0a4dd038a929d37586d8e47c10dba71f",
+            "decal_variant": 4,
+            "sender_name": "Jusagi Chan",
+            "sender_title": "Animator Extraordinaire!",
+            "message": "CONGRATULATIONS for hitting 1 million subs Bae! You're our #1 cutest idol gamer rat!",
             "media": null
         },
         {
@@ -56,14 +66,6 @@
             "sender_name": "Kodem",
             "sender_title": "Just a Hakos Baelz brat",
             "message": "Hi Bae, you make my days better with your stream, songs and plushies :)",
-            "media": null
-        },
-        {
-            "id": "0e02ebf2cac71204386fdc90ff411e4e",
-            "decal_variant": 0,
-            "sender_name": "Jusagi Chan",
-            "sender_title": "Animator Extrodinaire!",
-            "message": "CONGRATULATIONS for hitting 1 million subs Bae! You're our #1 cutest idol gamer rat!",
             "media": null
         },
         {
@@ -604,14 +606,6 @@
             "sender_name": "Kamen Rider Mythix",
             "sender_title": "Chaos Finder",
             "message": "Congratulations on 1 million!",
-            "media": null
-        },
-        {
-            "id": "73f869c069db1ca3600ffcd394d7343d",
-            "decal_variant": 0,
-            "sender_name": "Serachu",
-            "sender_title": "Envoy of Chaos.",
-            "message": "Placeholder",
             "media": null
         },
         {
@@ -1302,6 +1296,14 @@
             "sender_name": "Juan059",
             "sender_title": "The end and the Beggining, the Alpha and the Omega ",
             "message": "Since Council first debuted you always caught my eye not only because of your design but because of how peculiar your attitude was, and when I finally started watching your streams on September of this year I was amazed at how entertaining your streams were for me and how much fun I was having, you truly clicked in a different way for me to the point you were the first membership I bought since I first watched hololive back in 2020\nA thousand congratulations for 1 million, here's to many more!",
+            "media": null
+        },
+        {
+            "id": "f5b012e8fdcddec8b13022f3edaa4f1d",
+            "decal_variant": 3,
+            "sender_name": "Serachu",
+            "sender_title": "Lightning Sword Emperor, Envoy of Chaos",
+            "message": "THE...",
             "media": null
         },
         {
