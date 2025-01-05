@@ -1,6 +1,6 @@
 {
-    "charset_sans_kr": "심장독없었축좋브화웠적어제불구러소모야그지시매다아줄션해랐생이앞가채노땃만내처여라사전덕봤돈냥진미성한수방대밌졌즈바있새무래마벨송으리친요퍼높우까았솔프과될습도랑할슬주첫쁘강십말인렇들재팅창분텐년포데홀몇베를귀개하꼭번벌오일의면원던든쥐멤놀서튜을헌활명목써은운했터동돌짱때고너응위국뷔나니안트알잃네달에자정횟최부볼음는빠겠느몰버각보로언났열얻힘게",
-    "charset_sans_jp": "い録　（叶兄ーズマぶ望たネ上ン我貰ルんゅ可頑れ元名夢応〜像ベ者閃べ董っ言虚る将オ好つ妳ハぱがじちとあダやは当り万ら弟。憧タだう軒最ぜ≦、ばパか本く血もをェチ鮮よこの登推加てス嬉光お羅しジね愛雜活）にごさ回談どめろでま起！き歌人気イほ油神援せ張フ有えカな六身私≧ャ動す大謝ぽざ渇何ゃ",
+    "charset_sans_kr": "가각강개게겠고과구국귀그까꼭나났내냥너네년노놀높느는니다달대덕던데도독돈돌동될든들땃때라랐랑래러렇로를리마만말매멤면명몇모목몰무미밌바방버번벌베벨보볼봤부분불뷔브빠쁘사새생서성션소솔송수슬습시심십써아안알았앞야어언얻없었에여열오요우운원웠위으은을음응의이인일잃있자장재적전정제졌좋주줄쥐즈지진짱창채처첫최축친터텐튜트팅퍼포프하한할해했헌홀화활횟힘",
+    "charset_sans_jp": "≦≧　、。〜あいうえおかがきくこごさざしじすせぜただちっつてでとどなにねのはばぱぶべほぽまめもゃやゅよらりるれろをんイェオカジスズタダチネハパフベマャルンー万上人何像元兄光六加動可叶名回夢大好妳嬉将弟張当応愛憧我推援最有望本歌気油活渇登神私羅者董虚血言談謝貰起身軒録閃雜頑鮮！（）",
     "messages": [
         {
             "id": "0126e9e20eca1b8bfbf58fb7203325e5",
@@ -9,6 +9,20 @@
             "sender_title": "",
             "message": "Thank you for all the good times Bae! We are all proud of you! Let's have even more fun in the future!",
             "media": null
+        },
+        {
+            "id": "07ccd3a9d2a46777f7e84653996307b9",
+            "decal_variant": 3,
+            "sender_name": "David (dkua)",
+            "sender_title": "Pied Piper of Reichenbach Hall",
+            "message": "yeet the rat TODO finish this",
+            "media": {
+                "type": "YouTube",
+                "path": "https://i.ytimg.com/vi/cZI369wSyVA/maxresdefault.jpg",
+                "video_id": "cZI369wSyVA",
+                "width": 1280,
+                "height": 720
+            }
         },
         {
             "id": "0a4dd038a929d37586d8e47c10dba71f",
@@ -114,6 +128,14 @@
             "sender_name": "Akonikun",
             "sender_title": "the Weeb Friend to All Weebs",
             "message": "Congratulations on reaching a million subscribers! It's been a chaotic rollercoaster the past years and I'm glad to hear the ride is still going. Hope to have many more years watching what you will make and as long as you're having fun, we're having fun! ",
+            "media": null
+        },
+        {
+            "id": "1303a18d8aad089563069b14746d4f96",
+            "decal_variant": 1,
+            "sender_name": "Kayama",
+            "sender_title": "The One who dont't need to sleep.",
+            "message": "Thank you Bae for being you and giving us the energy and courage to face life.",
             "media": null
         },
         {
@@ -283,14 +305,6 @@
             }
         },
         {
-            "id": "375f7681a339f38c612e689906f9c9ec",
-            "decal_variant": 2,
-            "sender_name": "dkua",
-            "sender_title": "",
-            "message": "yeet the rat TODO finish this",
-            "media": null
-        },
-        {
             "id": "3a3cdb3ab640f71ea6b94b33669013d8",
             "decal_variant": 1,
             "sender_name": "Alexx Dr. Fleximus MD",
@@ -351,6 +365,14 @@
                 "width": 1280,
                 "height": 720
             }
+        },
+        {
+            "id": "43fb9a100e4fe9111345f78df96e7713",
+            "decal_variant": 4,
+            "sender_name": "Riinku",
+            "sender_title": "Fastest Rat of the Lower Sewers",
+            "message": "WAZZUP and CONGRATULATIONS on the big 1 mil! From your debut until today your performances and energy have continued to grow on me! I feel blessed to have been able to cheer you on in person a few times already, and I can't wait to do it again! The concerts in NYC hold a special place in my heart, because hanging out and cheering with fellow Brats and having so much fun together made it unforgettable. For now, bask in the glory of your milestone. You deserve this and so much more! BEST RAT IDOL!",
+            "media": null
         },
         {
             "id": "486ddb5452a523fd20584106ff242765",
@@ -666,7 +688,13 @@
             "sender_name": "KingTriforcer",
             "sender_title": "Bae's personal XXXSaber",
             "message": "To my BAEloved Baelz. Congrats on 1 million subs! I knew you could do it! I'll keep this short so Love ya Bae! You have my eternal support! CHU!",
-            "media": null
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/7cbf6ed0af9afa5370dab6b058de74e7.png",
+                "width": 2550,
+                "height": 2466,
+                "thumbnail": null
+            }
         },
         {
             "id": "7d5633d1641e145f10c9ada00af7e310",
@@ -756,9 +784,9 @@
             "message": "When I discovered holopro nearly five years ago, I thought people saying \"oshi\" instead of \"favorite\" were just using frivolous Japanese. I knew it literally translates to \"push,\" as in push to succeed, but I didn't really get the difference until, because of you, I FELT it. Ever since that day, I am proud to call you my oshi.\n\n(Photos taken after Breaking Dimensions day 1 and 2 respectively. Art by @sasadotexe, commissioned by me with the hope of showing off to the camera during the pre-show.)",
             "media": {
                 "type": "Image",
-                "path": "public/images/messages/8dd5ab215dd52be709f6f8675bee5ca1.jpg",
-                "width": 2048,
-                "height": 1536,
+                "path": "public/images/messages/8dd5ab215dd52be709f6f8675bee5ca1.png",
+                "width": 2000,
+                "height": 2000,
                 "thumbnail": null
             }
         },
@@ -1217,11 +1245,11 @@
             "media": null
         },
         {
-            "id": "eaf59ed9a86a1436a3c14ee9aebe9861",
-            "decal_variant": 2,
-            "sender_name": "Riinku",
-            "sender_title": "*to be added when not actively running around trying to finish my stuff*",
-            "message": "*to be added when not actively running around trying to finish my stuff*",
+            "id": "eb4d83ccec1287ae697aed0931b90927",
+            "decal_variant": 0,
+            "sender_name": "ShaggyBaggins",
+            "sender_title": "Domain Expansion: JDON of Snoring Souls",
+            "message": "Congrats on 1 million Bae! All of your dedication and countless hours of hard work continues to pay off. It's been an incredible journey watching you grow, create, and make your dreams a reality. You continue to inspire not only us Brats, but everyone around you. Thank you for being such a positive impact on our lives. Keep your passion ignited like a blazing fire, and hold your determination strong. Everyone, especially all of the Brats, will always support you. ♥️",
             "media": null
         },
         {
