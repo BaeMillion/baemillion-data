@@ -19,8 +19,13 @@ jobs:
           # Print out the directories to be packaged
           tree data public
           mkdir packages
-          tar -czf packages/latest.tar.gz data public
-          zip packages/latest.zip data public
+          echo ${{ github.sha }} >> release.txt
+          date +"%Y-%m-%dT%H:%M:%S%:z" >> release.txt
+          tar -czf packages/latest.tar.gz data public release.txt
+          zip packages/latest.zip data public release.txt
+          tar -ztvf packages/latest.tar.gz
+          zipinfo packages/latest.zip
+          cat release.txt
 
       - name: Upload GitHub Pages artifact
         id: upload
