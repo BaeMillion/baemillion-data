@@ -48,7 +48,7 @@ def process_media(ctx, link):
     media["type"] = "YouTube"
     media["path"] = None
     url = urlparse(link)
-    params = dict(p.split('=') for p in html.unescape(url.query).split('&') if url.query)
+    params = dict(p.split('=') for p in html.unescape(url.query).split('&') if url.query and p)
 
     if url.netloc == "youtu.be":
         media["video_id"] = url.path.strip("/")
@@ -134,8 +134,8 @@ def find_charsets(unique_chars):
     pattern = re.compile(regex_str, re.UNICODE)
 
     matches = pattern.findall("".join(unique_chars))
-    charset_sans_kr = "".join(kr_char for _, kr_char, _ in matches if kr_char)
-    charset_sans_jp = "".join(jp_char for _, _, jp_char in matches if jp_char)
+    charset_sans_kr = "".join(sorted(kr_char for _, kr_char, _ in matches if kr_char))
+    charset_sans_jp = "".join(sorted(jp_char for _, _, jp_char in matches if jp_char))
 
     return charset_sans_kr, charset_sans_jp
 
@@ -156,19 +156,22 @@ if __name__ == "__main__":
         for i, line in enumerate(reader, start=1):
             if line[10]: # Skip row if Column K (11th) isn't blank
                 continue
+            print(i, line)
             msg = process(args, line)
             print(i, msg)
             messages.append(msg)
     
-    print("Total number of images: ", args.image_count)
+    print(f"\nTotal number of images: {args.image_count}")
     output = Path(args.json_path)
     output.parent.mkdir(exist_ok=True, parents=True)
     with output.open("w", encoding="utf-8") as f:
         charset_sans_kr, charset_sans_jp = find_charsets(args.unique_chars)
-        # Sort messages by hash_id to shuffle away from submission order before writing
+        print(f"KR chars: {charset_sans_kr}")
+        print(f"JP chars: {charset_sans_jp}")
         data = {
             "charset_sans_kr": charset_sans_kr,
             "charset_sans_jp": charset_sans_jp,
+            # Sort messages by hash_id to shuffle away from submission order before writing
             "messages": sorted(messages, key=lambda msg: msg["id"]),
         }
         json.dump(data, f, ensure_ascii=False, indent=4)
