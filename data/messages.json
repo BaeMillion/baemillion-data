@@ -139,6 +139,14 @@
             "media": null
         },
         {
+            "id": "0f3a10ab561f8e2973ae812825c259c3",
+            "decal_variant": 3,
+            "sender_name": "DiegoRyS",
+            "sender_title": "The Apprentice of Lord Squeakers",
+            "message": "It’s been a long waiting but definitely was worth the wait, I created so many fun and incredible memories with you and the brats, I wouldn’t change it for nothing else. Thank you Bae for always being yourself, bring me a smile even in my darkest days and give me a reason to live and enjoy every moment of my life. I am excited to see what awaits you and continue to enjoy this journey by making more memories, achieving more goals and becoming the World Wide Rat that everyone will love to witness!!",
+            "media": null
+        },
+        {
             "id": "119b469504bdb8c58d0bf65272bd93aa",
             "decal_variant": 0,
             "sender_name": "Dreamer",
@@ -1662,7 +1670,13 @@
             "sender_name": "Daichi",
             "sender_title": "Fortune Weaver, a follower of Papa Legba",
             "message": "Dear Bae,\nHow are you today? I hope you're doing well.\nAs for me, everyday, I am very grateful. I'm grateful of getting to watch and WITNESS your journey in Hololive over the last 3 years. Your Idol Journey, your Gamer Journey, there has been so much to appreciate in every step of the way.\nYou truly are an inspirational Idol Rat Bae, congratz on 1 million subs and thank you for always doing your best. Just remember, your best is always enough.",
-            "media": null
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/dc7ec36d3b2d87542383afc647afe4a1.png",
+                "width": 416,
+                "height": 597,
+                "thumbnail": null
+            }
         },
         {
             "id": "e05ba9fee07e643d6fd27010994c99da",
@@ -1888,7 +1902,13 @@
             "sender_name": "NAMIORII",
             "sender_title": "Devourer of Breads",
             "message": "べーちゃん100万人おめでとう！！！\nCongratulations on hitting the great milestone ! And thank you for having us 1 million brats witness and be a part of this",
-            "media": null
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/f75d5c7862d151dbad32ac5987b5451f.jpg",
+                "width": 1776,
+                "height": 3016,
+                "thumbnail": null
+            }
         },
         {
             "id": "f88a5449766579e0e123d21446e86d2c",
@@ -1896,7 +1916,13 @@
             "sender_name": "appleseed",
             "sender_title": "『具象の組み万年筆』",
             "message": "世界の終わりまでベーちゃんを応援するぞ！JDON！MY！SOUL！",
-            "media": null
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/f88a5449766579e0e123d21446e86d2c.jpg",
+                "width": 870,
+                "height": 1805,
+                "thumbnail": null
+            }
         },
         {
             "id": "fd2167c2196e076638171c433b1cd40f",
