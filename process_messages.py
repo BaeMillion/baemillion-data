@@ -71,10 +71,10 @@ def process_media(ctx, link):
         media["type"] = "Image"
 
     if media["type"].startswith("YouTube") and media["video_id"]:
-        media["path"] = f"https://i.ytimg.com/vi/{media['video_id']}/maxresdefault.jpg"
-        # YouTube's default max resolution for thumbnails is 1280x720
-        media["width"] = 1280
-        media["height"] = 720
+        media["path"] = f"https://i.ytimg.com/vi/{media['video_id']}/mqdefault.jpg"
+        # YouTube's default MQ resolution for thumbnails is 320x180 which is still 16:9
+        media["width"] = 320
+        media["height"] = 180
 
     if link and media["type"] == "Image":
         path, width, height, thumb_path, thumb_width, thumb_height = download_image(ctx, link)
