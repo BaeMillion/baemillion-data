@@ -445,6 +445,14 @@
             }
         },
         {
+            "id": "3a2ea34d839ea32622bfccf6f94d02a5",
+            "decal_variant": 2,
+            "sender_name": "Lord Vel",
+            "sender_title": "The Psycho Brat",
+            "message": "Dear Bae, \nLittle did I know when you debuted 3 years ago how much you would change my life for the better. I quickly fell in love with your singing voice and delightful personality. (Even you're chuni side.) I am so proud of you for continuing to refine your craft and have reached over 1 Million subscribers. One might even say you have finally been witnessed!! \n\nI'll continue to show up with Psycho on my back whenever you take the stage!! \nMuch respect \nVel",
+            "media": null
+        },
+        {
             "id": "3a38976f42cd63cdb6491531ff01bebe",
             "decal_variant": 2,
             "sender_name": "Zura",
@@ -594,6 +602,14 @@
             "sender_name": "Tonky",
             "sender_title": "boom boom!!!",
             "message": "Congrats on 1 Million Bae!!! Having 1 Million subscribers is such a massive milestone - it's difficult to even comprehend. You have put so much effort into everything you do and have so much passion for absolutely everything. Keep on being amazing!!!",
+            "media": null
+        },
+        {
+            "id": "4b06cb36b8c45867f77de595ef624996",
+            "decal_variant": 4,
+            "sender_name": "HNS",
+            "sender_title": "Half-Dragonborn Half-Fae",
+            "message": "I love how we all got to see how Bae's experiencing new things during her time in Hololive and how those things started becoming part of her identity.\nStarting out as a Rat with next to no gaming experience to performing Yakuza's Judgement in 3D with so much passion and soul, it's just wonderful.\nCongratulations on 1m subs Bae and keep on doing you!",
             "media": null
         },
         {
@@ -914,6 +930,14 @@
             "sender_name": "Kamen Rider Mythix",
             "sender_title": "Chaos Finder",
             "message": "Congratulations on 1 million!",
+            "media": null
+        },
+        {
+            "id": "735395c028b532597a3a7455ebb3499a",
+            "decal_variant": 1,
+            "sender_name": "Kagecherou",
+            "sender_title": "JDONMYSNORE BDAY BRAT",
+            "message": "congratulations best rat on 1M!!",
             "media": null
         },
         {
@@ -1340,8 +1364,8 @@
             "message": "You always said you didn't believe this moment would come, but I thought you deserved it.\nSince I got to know you, my life has become brighter and more enjoyable. I love this hard working dancing rat. 축하해요. 사랑해요!",
             "media": {
                 "type": "YouTube",
-                "path": "https://i.ytimg.com/vi/gIEo2WLADac/mqdefault.jpg",
-                "video_id": "gIEo2WLADac",
+                "path": "https://i.ytimg.com/vi/EmPrtnhXnZo/mqdefault.jpg",
+                "video_id": "EmPrtnhXnZo",
                 "width": 320,
                 "height": 180
             }
@@ -1562,6 +1586,14 @@
             "sender_name": "Dino Dad",
             "sender_title": "",
             "message": "Thank you for all you do. I can't tell you how many times you brightened my day with your infectious laugh or something funny you shared. Your singing is a delight and has picked me up when I had a bad shift at the firehouse more times than I can remember. You are very much loved and appreciated. Thank you so much for just being you. ",
+            "media": null
+        },
+        {
+            "id": "cf1019cca98d7a6f399fc90316534383",
+            "decal_variant": 3,
+            "sender_name": "noun",
+            "sender_title": "",
+            "message": "Congrats on one million, Bae! This is an amazing achievement that was the result of your continuous hard work. I'm sure there are many stressful and frustrating times behind the scenes, but the dedication and passion you show us toward your work always inspires us to push ourselves to be the best version of ourselves. Keep being you, and keep doing what you do! The Brats will be cheering you on every step of the way.",
             "media": null
         },
         {
@@ -1879,8 +1911,16 @@
             "decal_variant": 3,
             "sender_name": "Serachu",
             "sender_title": "Lightning Sword Emperor, Envoy of Chaos",
-            "message": "HAKOS BAELZ!!! Your years of hard work have paid off! I am happy to witness the moments leading to this goal, like your amazing dance and kick at Breaking Dimensions. You are a huge source of inspiration and joy in my life. Your stories and struggles resonated deeply with me and is why I was able to motivate myself to change, to to relearn Chinese and Japanese and exercise more. My kamioshi, you are a cute wonderful person, don't let anyone say otherwise! Congrats on 1M subs!",
-            "media": null
+            "message": "HAKOS BAELZ!!! Your years of hard work have paid off! I am happy to witness the moments leading to this goal, like your amazing dances and kick at Breaking Dimensions. You are a huge source of inspiration and joy in my life. Your stories and struggles resonated deeply with me and is why I was able to motivate myself to change, to relearn Chinese and Japanese and exercise more. My kamioshi, you are a cute wonderful person, don't let anyone say otherwise! Congrats on 1M subs!",
+            "media": {
+                "type": "YouTubeClip",
+                "path": "https://i.ytimg.com/vi/j-N96U_OANI/mqdefault.jpg",
+                "video_id": "j-N96U_OANI",
+                "clip_id": "UgkxdFWIK9swebN6FY0mvurI9epLQIhyVYbg",
+                "clipt": "EKinsQEY-K20AQ",
+                "width": 320,
+                "height": 180
+            }
         },
         {
             "id": "f71b5ea553fcb9b80e5c2f05783a8d96",
