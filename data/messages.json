@@ -65,7 +65,7 @@
             "decal_variant": 3,
             "sender_name": "David (dkua)",
             "sender_title": "Pied Piper of Reichenbach Hall",
-            "message": "Thanks to you & the Brats I made many memories last year. A core one was leading a horde of Brats from Kings Theatre to a beer hall with no reso, 30min before closing. Was stressin' but not only did they let us eat – the manager put your albums on & we partied til the music ran out.\n\nI hope more people get to know you, become Brats, & make similar core memories!\n🐀🚨🐀🍻🐀🚨🐀🍻🐀🚨🐀🍻🐀\n🚨🐀🍻🐀🚨🐀🍻🐀🚨🐀🍻🐀🚨\n🐀🍻🐀🚨🐀🍻🐀🚨🐀🍻🐀🚨🐀\n🚨🐀🍻🐀🚨🐀🍻🐀🚨🐀🍻🐀🚨\n🐀🚨🐀🍻🐀🚨🐀🍻🐀🚨🐀🍻🐀",
+            "message": "Thanks to you & the Brats I made many memories last year. A core one was leading a horde of Brats from Kings Theatre to a beer hall with no reso, 30 min before closing. Was stressin' but not only did they let us eat – the manager put your albums on & we partied til the music ran out.\n\nI hope even more people get to know you, become Brats & make some memories too!\n🐀🚨🐀🍻🐀🚨🐀🍻🐀🚨🐀🍻🐀\n🚨🐀🍻🐀🚨🐀🍻🐀🚨🐀🍻🐀🚨\n🐀🍻🐀🚨🐀🍻🐀🚨🐀🍻🐀🚨🐀\n🚨🐀🍻🐀🚨🐀🍻🐀🚨🐀🍻🐀🚨\n🐀🚨🐀🍻🐀🚨🐀🍻🐀🚨🐀🍻🐀",
             "media": {
                 "type": "YouTube",
                 "path": "https://i.ytimg.com/vi/cZI369wSyVA/mqdefault.jpg",
@@ -87,6 +87,14 @@
                 "width": 320,
                 "height": 180
             }
+        },
+        {
+            "id": "09ddc69ddccf22767cd833fdf29d3a57",
+            "decal_variant": 2,
+            "sender_name": "Zestrix",
+            "sender_title": "Crescendo, The Bringer Of Endless Calamity",
+            "message": "I've been watching hololive for about 3 years and you've always been my kamioshi! I always loved your \"chaotic\" energy and your oversleeping. Keep it up big h̶a̶m̶s̶t̶e̶r̶ bae! ",
+            "media": null
         },
         {
             "id": "0a4dd038a929d37586d8e47c10dba71f",
@@ -270,6 +278,14 @@
             "sender_name": "Ema",
             "sender_title": "Frosty Fox of Mischief ",
             "message": "Congrats on 1milion Bae!! I've always been a quiet supporter and recently started gathering the courage to be a more active one. It's been such a pleasure to watch you grow, and you've been a big inspiration and source of comfort. Your hard work shows and pays off and I'm so proud to be able to watch you hit this big, very deserved milestone. Thank you for everything you do and the effort you put in. It doesn't go unnoticed. Keep doing your best, you're amazing!! I'm happy to be part of Brats!",
+            "media": null
+        },
+        {
+            "id": "1cc798ced1786161b2718b1be6e12433",
+            "decal_variant": 2,
+            "sender_name": "Woo",
+            "sender_title": "dark light",
+            "message": "Thank you for all the amazing content, songs, and dances throughout the years. Don't stop it our chaotic rodent!",
             "media": null
         },
         {
@@ -668,7 +684,13 @@
             "sender_name": "HNS",
             "sender_title": "Half-Dragonborn Half-Fae",
             "message": "I love how we all got to see how Bae's experiencing new things during her time in Hololive and how those things started becoming part of her identity.\nStarting out as a Rat with next to no gaming experience to performing Yakuza's Judgement in 3D with so much passion and soul, it's just wonderful.\nCongratulations on 1m subs Bae and keep on doing you!",
-            "media": null
+            "media": {
+                "type": "YouTube",
+                "path": "https://i.ytimg.com/vi/eLISwqcoio8/mqdefault.jpg",
+                "video_id": "eLISwqcoio8",
+                "width": 320,
+                "height": 180
+            }
         },
         {
             "id": "4b9e61f3276088972956350130dca603",
@@ -684,6 +706,14 @@
             "sender_name": "Skiddosaurus Rex",
             "sender_title": "The Dino of the Galaxy",
             "message": "Congrats on 1M, Bae!! You've been such an inspiration to me with how much hard work you put into what you love and you deserve this so much! I look up to you and am proud to call you one of my oshis. Keep up the amazing work and I can't wait to see what you have in store for us in the upcoming year! ",
+            "media": null
+        },
+        {
+            "id": "4c3fddc4239166fbcd443b0a40e900f5",
+            "decal_variant": 3,
+            "sender_name": "Hakiru",
+            "sender_title": "",
+            "message": "Thank you Bae for all your hard working, your stream is always fun and the music is good i really like them and listen to them alot, sorry if this too short once again thank you Bae hope you get a Sololive soon and reaching 2 Mil subs one day",
             "media": null
         },
         {
@@ -825,6 +855,20 @@
             "media": null
         },
         {
+            "id": "61c0cd06b191dc187bda9615d704b205",
+            "decal_variant": 0,
+            "sender_name": "OOPARTZ",
+            "sender_title": "",
+            "message": "Congratulations 1000000 subs, Bae!! \nThank you for everything you've brought to us over the past three+ years. \nLooking forward to more good things ahead, and I'll continue to support you in the future!!",
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/61c0cd06b191dc187bda9615d704b205.jpg",
+                "width": 1920,
+                "height": 1920,
+                "thumbnail": null
+            }
+        },
+        {
             "id": "635562ffb31452162a9cd0922e5931f0",
             "decal_variant": 1,
             "sender_name": "BlackfireHedgehog",
@@ -868,7 +912,13 @@
             "sender_name": "Richardlikespie",
             "sender_title": "The son of flame",
             "message": "It's really inspiring how hard you work to do everything that you want to do from streaming to dancing. People can compromise before they attempt to do everything. While it's not always a bad choice, I think having the courage to try and risk failure is better than not trying at all. That courage is what I see when I watch you. Thank you for that. I hope you find the balance you want in 2025.",
-            "media": null
+            "media": {
+                "type": "YouTube",
+                "path": "https://i.ytimg.com/vi/_xXwBaVo-S0/mqdefault.jpg",
+                "video_id": "_xXwBaVo-S0",
+                "width": 320,
+                "height": 180
+            }
         },
         {
             "id": "6589b2a67fe81bf37faef1a25151b8da",
@@ -1119,6 +1169,14 @@
             "media": null
         },
         {
+            "id": "7df99d34478984cc321fed15cdf67e11",
+            "decal_variant": 0,
+            "sender_name": "Cxyz",
+            "sender_title": "",
+            "message": "Congrats on 1 million bae! You're the reason I discovered Hololive and entered this amazing community, and I couldn't be more grateful. Love from Ecuador ❤",
+            "media": null
+        },
+        {
             "id": "7ecd3736ba9b866afe6bdce9f95c17a8",
             "decal_variant": 2,
             "sender_name": "Daremomita",
@@ -1169,6 +1227,28 @@
             "media": null
         },
         {
+            "id": "827d9307f2863a942abc15c65a96c6f2",
+            "decal_variant": 0,
+            "sender_name": "Hanaka",
+            "sender_title": "The Prophet banana Rat from the Cult of Bananas",
+            "message": "From the very first day I got to know Bae, the day I decided to hold the name “Brats,” and the day I promised to dedicate all my love and support to this little red rat, every moment has shown me that Hakos Baelz is truly a genius of dedication and effort.\n\nYou truly deserve it! From here on, keep striving forward and going even further. I’ll be following and supporting your every step until the very end—promise! Congratulations!!! 🥰\n\n P.S. Make sure to get plenty of rest too, okay? Promise me!",
+            "media": null
+        },
+        {
+            "id": "8353bf578afd86a0808a21d1630032d0",
+            "decal_variant": 2,
+            "sender_name": "Lishi",
+            "sender_title": "the HARDEST baguette",
+            "message": "Congrats on 1million subs! You deserve this and more. You're so talented and passionate on everything you do, and your streams always bring a smile to my face! Bae is so cool frfr <3 ",
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/8353bf578afd86a0808a21d1630032d0.jpg",
+                "width": 4000,
+                "height": 2430,
+                "thumbnail": null
+            }
+        },
+        {
             "id": "83c34ba83082cc51f48d5c2ec9c7dc15",
             "decal_variant": 1,
             "sender_name": "snowmya@nyangnyang3580",
@@ -1179,6 +1259,20 @@
                 "path": "public/images/messages/83c34ba83082cc51f48d5c2ec9c7dc15.jpg",
                 "width": 2048,
                 "height": 1696,
+                "thumbnail": null
+            }
+        },
+        {
+            "id": "840eb8a911059867f605d80774ff454a",
+            "decal_variant": 4,
+            "sender_name": "Ah'mere",
+            "sender_title": "A Musician Reaching Out To The Truth",
+            "message": "OIIIIIIIIIIII!! CONGRATS ON 1 MILLION SUBS!! Been in the loop about ya since 2021, I absolutely ADORE your energy and the chaotic nature you bring to the table :) continue to shine bright, chuuni queen, and let's shoot for the stars!! ✨",
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/840eb8a911059867f605d80774ff454a.webp",
+                "width": 739,
+                "height": 554,
                 "thumbnail": null
             }
         },
@@ -1343,6 +1437,14 @@
             "media": null
         },
         {
+            "id": "9f4127c9be1dad1a2e8a502abccc7fce",
+            "decal_variant": 3,
+            "sender_name": "Mikwing",
+            "sender_title": "The Silver Haired and Violet Eyed Paradox",
+            "message": "Congrats for the 1 million subs Bae! Well deserved! Keep working hard but also PLEASE REST! Will be looking forward to more of our rat idol!",
+            "media": null
+        },
+        {
             "id": "9fb55966fedee9b561e5fd548b77903a",
             "decal_variant": 4,
             "sender_name": "SpaceMuffins",
@@ -1379,6 +1481,14 @@
                 "height": 527,
                 "thumbnail": null
             }
+        },
+        {
+            "id": "a7ca4251315cd9144e84298741e7446d",
+            "decal_variant": 3,
+            "sender_name": "Stolas",
+            "sender_title": "Devourer of Gods",
+            "message": "Your birthday last year and Zodiac blew my mind, and you became my EN oshi. Thank you for all that you do, I will keep witnessing and supporting your journey through sweet and sorrow till the end of ends!",
+            "media": null
         },
         {
             "id": "a7de5299563eb961aa5b0eff201d2c48",
@@ -1879,6 +1989,20 @@
             }
         },
         {
+            "id": "dda5219462b532929bff958a3a468262",
+            "decal_variant": 0,
+            "sender_name": "Arisae",
+            "sender_title": "",
+            "message": "1 Million Rat!!",
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/dda5219462b532929bff958a3a468262.jpg",
+                "width": 1095,
+                "height": 1053,
+                "thumbnail": null
+            }
+        },
+        {
             "id": "e05ba9fee07e643d6fd27010994c99da",
             "decal_variant": 3,
             "sender_name": "somotodsyo",
@@ -1895,12 +2019,26 @@
             "media": null
         },
         {
+            "id": "e279f8e9310f894bf2213dc2e32e26f1",
+            "decal_variant": 1,
+            "sender_name": "EleMas*",
+            "sender_title": "",
+            "message": "\nCongratulations on reaching 1 million!\n\nI'm here because of you—my kamioshi—who makes me smile, and the now is here since we’re together with you\n\nI love your balance(?) of your overflowing chaotic & chuuni energy and oversleeping 😂 (I do often oversleep as well thank you)\n\nI’m keep looking forward to being with you! To the next milestone! Love you ❤️ ",
+            "media": null
+        },
+        {
             "id": "e28a120a450c23609cac3aa5315e83f7",
             "decal_variant": 1,
             "sender_name": "The GenJo",
             "sender_title": "The GenJo the one who sleeps",
-            "message": "Hello Baelz!!! Congrats on the millions of Brats. Form the beginning to now what a time to see ya shine in your singing and dancing. To the future and beyond good luck in all of your projects form a Boomer Brat fan. GenJo",
-            "media": null
+            "message": "Hello Baelz!!! Congrats on the millions of Brats. Form the beginning to now what a time to see ya shine in your singing and dancing. To the future and beyond good luck in all of your projects from a Boomer Brat fan. GenJo",
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/e28a120a450c23609cac3aa5315e83f7.jpg",
+                "width": 1080,
+                "height": 1080,
+                "thumbnail": null
+            }
         },
         {
             "id": "e28dcf3bba974c300b34a4171faaf689",
@@ -1971,12 +2109,32 @@
             "media": null
         },
         {
+            "id": "ea08edee7df88eef02602224e2555a5b",
+            "decal_variant": 1,
+            "sender_name": "KajeHD",
+            "sender_title": "Ka-tan, Laity of Chaos",
+            "message": "The lyrics \"If you hesitate on what to do, that's it game over you are screwed\" from PlayDice hold a special place in my heart. They help me not only in times of hesitation but also when I feel like giving up or being limited in what I can do. Thank you for delivering such impactful words. Your creativity and passion you show spreads to us, bringing color to the dull and stressful life. You've gone through so much, but but know we brats are always here to be with you through it. Love ya, Bae!",
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/ea08edee7df88eef02602224e2555a5b.png",
+                "width": 2100,
+                "height": 1580,
+                "thumbnail": null
+            }
+        },
+        {
             "id": "eaa25706e9d61657a15b2c50d2b02c1d",
             "decal_variant": 0,
             "sender_name": "TopMr.M",
             "sender_title": "",
             "message": "Congratulations on 1 million subscribers Bae, it was LONG overdue! I’m so lucky that I have been able to watch you grow over these last 3+ years. You are such an incredible singer, dancer, & entertainer and I am so proud to call you my kamioshi! Getting to see you perform at the Soar concert in Atlanta was the highlight of my year. I almost lost my voice cheering for you during Play Dice and Magia! I know you’ll get that solo concert and when you do I’ll be in the crowd cheering you on!",
-            "media": null
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/eaa25706e9d61657a15b2c50d2b02c1d.jpg",
+                "width": 1119,
+                "height": 965,
+                "thumbnail": null
+            }
         },
         {
             "id": "eb4d83ccec1287ae697aed0931b90927",
@@ -1992,6 +2150,14 @@
             "sender_name": "Yami",
             "sender_title": "Yami, the Dark Dragon Lord",
             "message": "Congrats on 1M subs Bae!!! You deserve it! I started to watch you a lot more this year and I've enjoyed every second of it. Nier and Yakuza are two of my favorite game series. I am very excited to see you finish Yakuza this year. Your songs are some of my top listened to on Spotify. You are an amazing dancer and singer. You always seem to give it your all and are constantly improving. I'm excited to see what you bring this year! Hope you have a good year in 2025 and congrats again on 1mil!",
+            "media": null
+        },
+        {
+            "id": "ec9d0176a30e2d2744f8b36759dc3274",
+            "decal_variant": 1,
+            "sender_name": "HdH",
+            "sender_title": " your friendly brat ",
+            "message": "congrats your 1m bae! and happy new year!  I hope this Chad cast trip helped you to heal a lot of the past stressful things!  2024 has been a pretty tough year, But I hope that doesn't happen this year. If you're having a hard time, always tell us. We're not going anywhere",
             "media": null
         },
         {
