@@ -1,6 +1,6 @@
 {
     "charset_sans_kr": "가각강개게겠고과구국귀그까꼭나났내냥너네년노놀높느는니다달대덕던데도독돈돌동될든들땃때라랐랑래러렇로를리마만말매멤면명몇모목몰무미밌바방버번벌베벨보볼봤부분불뷔브빠쁘사새생서성션소솔송수슬습시심십써아안알았앞야어언얻없었에여열오요우운원웠위으은을음응의이인일잃있자장재적전정제졌좋주줄쥐즈지진짱창채처첫최축친터텐튜트팅퍼포프하한할해했헌홀화활횟힘",
-    "charset_sans_jp": "≦≧　、。〜あいうえおかがきくこごさざしじすせぜただちっつてでとどなにねのはばぱぶべほぽまめもゃやゅよらりるれろをんイウェォオカジスズタダチネハパフベマャルンー万上人何像元兄光六加動可叶名回夜夢大好妳嬉将弟張当応愛憧我推援最有望本歌気油活渇玹登神私竹羅者董虚血言談謝貰起身軒録閃闇雜頑鮮！（）",
+    "charset_sans_jp": "≦≧　、。『』〜あいうえおかがきくこごさざしじすせぜぞただちっつてでとどなにねのはばぱぶべほぽまみめもゃやゅよらりるれろわをんイウェォオカジスズタダチネハパフベマャルンー万上世人何像元兄光六具加動可叶名回夜夢大好妳嬉将年弟張当応愛憧我推援最有望本歌気油活渇玹界登神私竹筆終組羅者董虚血言談謝象貰起身軒録閃闇雜頑鮮！（）",
     "messages": [
         {
             "id": "0117301d6608208a67cb8c87d7cd444f",
@@ -1108,7 +1108,13 @@
             "sender_name": "Alphaetus",
             "sender_title": "Duke of Bonking-the-Halu, of the Sewer Rat Kingdom",
             "message": "When I discovered holopro nearly five years ago, I thought people saying \"oshi\" instead of \"favorite\" were just using frivolous Japanese. I knew it literally translates to \"push,\" as in push to succeed, but I didn't really get the difference until, because of you, I FELT it. Ever since that day, I am proud to call you my oshi.\n\n(Photos taken after Breaking Dimensions day 1 and 2 respectively. Art by @sasadotexe, commissioned by me with the hope of showing off to the camera during the pre-show.)",
-            "media": null
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/8dd5ab215dd52be709f6f8675bee5ca1.png",
+                "width": 2000,
+                "height": 2000,
+                "thumbnail": null
+            }
         },
         {
             "id": "923a3015ca98f8d5789b7df49401472a",
@@ -1651,6 +1657,14 @@
             "media": null
         },
         {
+            "id": "dc7ec36d3b2d87542383afc647afe4a1",
+            "decal_variant": 2,
+            "sender_name": "Daichi",
+            "sender_title": "Fortune Weaver, a follower of Papa Legba",
+            "message": "Dear Bae,\nHow are you today? I hope you're doing well.\nAs for me, everyday, I am very grateful. I'm grateful of getting to watch and WITNESS your journey in Hololive over the last 3 years. Your Idol Journey, your Gamer Journey, there has been so much to appreciate in every step of the way.\nYou truly are an inspirational Idol Rat Bae, congratz on 1 million subs and thank you for always doing your best. Just remember, your best is always enough.",
+            "media": null
+        },
+        {
             "id": "e05ba9fee07e643d6fd27010994c99da",
             "decal_variant": 3,
             "sender_name": "somotodsyo",
@@ -1851,7 +1865,7 @@
             "decal_variant": 3,
             "sender_name": "Serachu",
             "sender_title": "Lightning Sword Emperor, Envoy of Chaos",
-            "message": "THE...",
+            "message": "HAKOS BAELZ!!! Your years of hard work have paid off! I am happy to witness the moments leading to this goal, like your amazing dance and kick at Breaking Dimensions. You are a huge source of inspiration and joy in my life. Your stories and struggles resonated deeply with me and is why I was able to motivate myself to change, to to relearn Chinese and Japanese and exercise more. My kamioshi, you are a cute wonderful person, don't let anyone say otherwise! Congrats on 1M subs!",
             "media": null
         },
         {
@@ -1867,6 +1881,22 @@
                 "width": 320,
                 "height": 180
             }
+        },
+        {
+            "id": "f75d5c7862d151dbad32ac5987b5451f",
+            "decal_variant": 4,
+            "sender_name": "NAMIORII",
+            "sender_title": "Devourer of Breads",
+            "message": "べーちゃん100万人おめでとう！！！\nCongratulations on hitting the great milestone ! And thank you for having us 1 million brats witness and be a part of this",
+            "media": null
+        },
+        {
+            "id": "f88a5449766579e0e123d21446e86d2c",
+            "decal_variant": 2,
+            "sender_name": "appleseed",
+            "sender_title": "『具象の組み万年筆』",
+            "message": "世界の終わりまでベーちゃんを応援するぞ！JDON！MY！SOUL！",
+            "media": null
         },
         {
             "id": "fd2167c2196e076638171c433b1cd40f",
