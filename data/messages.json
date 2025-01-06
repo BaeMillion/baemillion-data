@@ -8,7 +8,13 @@
             "sender_name": "robtheimpure",
             "sender_title": "",
             "message": "congrats on reaching 1 million subscribers Bae! thanks for always being an inspiration and bringing so much joy to our lives thru your singing, dancing, gaming, or just being your goofy self. despite all the rough times you went thru last year, you achieved a ton and should be proud! i rewatched your GEKIRIN performance from Breaking Dimensions so many times, i don't think i'll ever forget it. i'll always be cheering for my rat idol - onwards to 2 million and beyond!",
-            "media": null
+            "media": {
+                "type": "YouTube",
+                "path": "https://i.ytimg.com/vi/YHk3GaKEVWM/mqdefault.jpg",
+                "video_id": "YHk3GaKEVWM",
+                "width": 320,
+                "height": 180
+            }
         },
         {
             "id": "0126e9e20eca1b8bfbf58fb7203325e5",
@@ -19,6 +25,34 @@
             "media": null
         },
         {
+            "id": "03c65aab001598330ed35c5b2343a3d3",
+            "decal_variant": 0,
+            "sender_name": "Bolwic",
+            "sender_title": "The String Pulling Panda!!!",
+            "message": "Congratulations Bae!!! You achieved 1 million subscribers!!!! I am so proud of you seeing you come all this way! Keep up the good work and kick butt!!!",
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/03c65aab001598330ed35c5b2343a3d3.png",
+                "width": 5760,
+                "height": 3456,
+                "thumbnail": null
+            }
+        },
+        {
+            "id": "0674afeeaece600a66a88a7cffb415c2",
+            "decal_variant": 3,
+            "sender_name": "BigCheeze",
+            "sender_title": "OPEN YOUR EYES AND BE WITNESS FOR THE CHAOS BRAT HAS ARRIVED!",
+            "message": "It is an honor to be one of the million of people supporting you! When I first found out about Hololive EN Gen 2, I was not sure if I would like them until I gave one of your streams a try! Once I did, I loved all the dorky and silly fun you and the other brought their streams. It got better as I found out more and more brats to talk with, they only got me more invested into your streams! So thank you Bae and all the Brats for being such an inspiration! Congratulations on 1 Millions Subs, Bae!!",
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/0674afeeaece600a66a88a7cffb415c2.jpg",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": null
+            }
+        },
+        {
             "id": "07ccd3a9d2a46777f7e84653996307b9",
             "decal_variant": 3,
             "sender_name": "David (dkua)",
@@ -26,10 +60,10 @@
             "message": "Congratulations on a BaeMillion Brats!",
             "media": {
                 "type": "YouTube",
-                "path": "https://i.ytimg.com/vi/cZI369wSyVA/maxresdefault.jpg",
+                "path": "https://i.ytimg.com/vi/cZI369wSyVA/mqdefault.jpg",
                 "video_id": "cZI369wSyVA",
-                "width": 1280,
-                "height": 720
+                "width": 320,
+                "height": 180
             }
         },
         {
@@ -38,7 +72,13 @@
             "sender_name": "Liming",
             "sender_title": "Der Narr, the Indecisive",
             "message": "Bae,\nThank you Bae for being who you are and being a source of motivation to try out new things. I started watching your streams during a time I suffered from insomnia and you helped fight the intrusive thoughts. Thank you from the bottom of my heart.\nThis is the first clip I saw and which made me curious afterwards I discovered your music which resonated with me. Keep up the good work. Seeing you putting over 100% is truly inspiring.",
-            "media": null
+            "media": {
+                "type": "YouTube",
+                "path": "https://i.ytimg.com/vi/8c3TG4xt66E/mqdefault.jpg",
+                "video_id": "8c3TG4xt66E",
+                "width": 320,
+                "height": 180
+            }
         },
         {
             "id": "0a4dd038a929d37586d8e47c10dba71f",
@@ -114,12 +154,12 @@
             "message": "From the day you jumped down from the rat wheel, you've always been head strong and resilient. These past 3 years I've seen this tiny cute rat turn into a dependable, dorky, loving and overall hardworking individual, that can easily crush any obstacle in her way. Things may get rough from time to time, but you got your lovely ladies and your loyal brats to back you up 100%. Keep your head up high and continue enjoying what you love, thanx for everything Bae<3",
             "media": {
                 "type": "YouTubeClip",
-                "path": "https://i.ytimg.com/vi/bcyx-7p3bvU/maxresdefault.jpg",
+                "path": "https://i.ytimg.com/vi/bcyx-7p3bvU/mqdefault.jpg",
                 "video_id": "bcyx-7p3bvU",
                 "clip_id": "UgkxYQXlPhMWGlugr1nAUXSgxEEpIFQwi4h1",
                 "clipt": "ENT7uwgYv-68CA",
-                "width": 1280,
-                "height": 720
+                "width": 320,
+                "height": 180
             }
         },
         {
@@ -130,12 +170,12 @@
             "message": "Congratulations to the one and only Harbinger of Chaos, the end of ends, the steel rose trapped in a cage of ice!\n\nYou have ascended to the legendary milestone of 1 million WITNESSES to the tempest of chaos that is you, Hakos Baelz! Your indomitable spirit and unwavering tenacity has forged a glorious path to greatness! We of the Rat Pack will follow you with great pride!\n\n¡plɹoʍ ǝɥʇ ǝʞɐɥs llɐɥs no⅄ ˙ɹǝpɹo lɐɹnʇɐu ǝɥʇ sdɹnsn oɥʍ ǝɥs 'ǝsᴉɹ oʇ ǝnuᴉʇuoƆ\n\n(On a scale of 1 to 10 how chuuni was that?)",
             "media": {
                 "type": "YouTubeClip",
-                "path": "https://i.ytimg.com/vi/wpLoluuK_I4/maxresdefault.jpg",
+                "path": "https://i.ytimg.com/vi/wpLoluuK_I4/mqdefault.jpg",
                 "video_id": "wpLoluuK_I4",
                 "clip_id": "Ugkxj4Waj_k3z6Aep0gUF4Nzp1doue9q8y1v",
                 "clipt": "EKix_gIY8OT-Ag",
-                "width": 1280,
-                "height": 720
+                "width": 320,
+                "height": 180
             }
         },
         {
@@ -216,7 +256,13 @@
             "sender_name": "Saikara",
             "sender_title": "",
             "message": "Thank you for inspiring so many of us, Bae! Even when I’m down, and I’m sure this can be applied to lots of us Brats, we can watch you and just feel a bit happier. And thank you for being such a big inspiration to keep pushing forward through it all. Love you! ",
-            "media": null
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/1f146b5486613b81e6578566db2bb6bd.jpg",
+                "width": 333,
+                "height": 323,
+                "thumbnail": null
+            }
         },
         {
             "id": "1f9767873cf51b5713526e8587263deb",
@@ -234,10 +280,10 @@
             "message": "CONGRATS BAE!!! I love you so much, I was disappointed I couldnt catch you at 5th fes and I was devastated when I couldnt go to dreamhack. But then my prayers were answered and YOU CAME RIGHT TO MY HOME IN SINGAPORE!!! I was just over the moon the day SOAR was announced. Your workaholic attitude makes me aspire to work hard like you too! (I am very lazy) P.S. Im the brat whose plushie landed on the side of the basket in Singapore! Smol but a memory I will cherish forever. ",
             "media": {
                 "type": "YouTube",
-                "path": "https://i.ytimg.com/vi/3Q2FwvpkdEY/maxresdefault.jpg",
+                "path": "https://i.ytimg.com/vi/3Q2FwvpkdEY/mqdefault.jpg",
                 "video_id": "3Q2FwvpkdEY",
-                "width": 1280,
-                "height": 720
+                "width": 320,
+                "height": 180
             }
         },
         {
@@ -305,6 +351,28 @@
             "media": null
         },
         {
+            "id": "2998ab7a1b92ffff749490130294fa16",
+            "decal_variant": 3,
+            "sender_name": "Cafelittle",
+            "sender_title": "",
+            "message": "You're the one who made my dreams come true.\n\nI'm still a work in progress, but you're the reason I've been able to draw so much consistently.",
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/2998ab7a1b92ffff749490130294fa16.jpg",
+                "width": 3300,
+                "height": 2460,
+                "thumbnail": null
+            }
+        },
+        {
+            "id": "2a389025eee5ce6bac5c53f5d413ed5b",
+            "decal_variant": 0,
+            "sender_name": "Verrero",
+            "sender_title": "",
+            "message": "Congrats Bae for reaching 1 million subscribers!!!! I stumbled upon you and hololive about 2 years ago and and only wished that I got into this rabbit hole a long time ago. You've been an amazing person to watch over this time and I'm always awed by everything you do and the amount of effort you put in and proud to call you my oshi. 2025 is upon us now and I can see you doing even bigger things than before but hope to see you taking more time for yourself. Congrats again!",
+            "media": null
+        },
+        {
             "id": "2cca9f274ca3a19ba1eefb36d0613b33",
             "decal_variant": 3,
             "sender_name": "Dominic",
@@ -360,13 +428,21 @@
             "message": "Bae became my oshi after her first 3D appearance in 4th Fes! Since then, I've embraced every choreo that she creates and/or performs. After New York, I've come to realize how much she really means to me; not just in her choreo, but also in her immense talent, the way she talks, the hard work she puts in... and so much more.\n\nTo Bae: I wish I could've been there for the beginning of your journey. Even then, please let me show you my support now. You deserve to know how much your brats love you!",
             "media": {
                 "type": "YouTubeClip",
-                "path": "https://i.ytimg.com/vi/UxvmtB-G-SI/maxresdefault.jpg",
+                "path": "https://i.ytimg.com/vi/UxvmtB-G-SI/mqdefault.jpg",
                 "video_id": "UxvmtB-G-SI",
                 "clip_id": "UgkxbS5IQz25qDuBLPYqaJ2a6gvwE8YmDNns",
                 "clipt": "EOmXzAIYsJnOAg",
-                "width": 1280,
-                "height": 720
+                "width": 320,
+                "height": 180
             }
+        },
+        {
+            "id": "3a38976f42cd63cdb6491531ff01bebe",
+            "decal_variant": 2,
+            "sender_name": "Zura",
+            "sender_title": "from the abyss",
+            "message": "I saw your debut but it was around 2 years ago that I really started watching entire streams and following you closely, it was one of the best decisions I've ever made. I always look forward to 10pm whenever you stream, you really are good at making people smile\nYou're an amazing singer, dancer and entertainer Bae. I really hope to watch you on stage one day, even if i can't right now and live in Brazil (you have fans all the way over here!)\nThank you for everything you do and congrats on 1M!",
+            "media": null
         },
         {
             "id": "3a3cdb3ab640f71ea6b94b33669013d8",
@@ -400,12 +476,12 @@
             "message": "Along with Kiryu Kazuma, You’ve been one of my biggest inspirations to be creative (i.e making song covers and doing fight choreography videos). How convenient it was for me when you started playing the Yakuza games back in Dec 2023! From watching you perform and chat, I learned the real value of chuuni: Without it, you lose your sense of childlike wonder, something we could all use. I hope we can see you continue to put in 110% (after taking the proper rest lol).",
             "media": {
                 "type": "YouTubeClip",
-                "path": "https://i.ytimg.com/vi/zZhyeaw148k/maxresdefault.jpg",
+                "path": "https://i.ytimg.com/vi/zZhyeaw148k/mqdefault.jpg",
                 "video_id": "zZhyeaw148k",
                 "clip_id": "UgkxoU-oDWWVS7FrMm8ZXA6sTQ5JGiYt2U56",
                 "clipt": "EKv6kwEYgN6WAQ",
-                "width": 1280,
-                "height": 720
+                "width": 320,
+                "height": 180
             }
         },
         {
@@ -432,10 +508,10 @@
             "message": "I started watching you this past year. you've done a lot in this year. i'm glad you can do a lot. you've saved my life. you always bring joy and smile to me. Love you Bae. Jangan lupa istirahat!",
             "media": {
                 "type": "YouTube",
-                "path": "https://i.ytimg.com/vi/4wtW1VQp2ig/maxresdefault.jpg",
+                "path": "https://i.ytimg.com/vi/4wtW1VQp2ig/mqdefault.jpg",
                 "video_id": "4wtW1VQp2ig",
-                "width": 1280,
-                "height": 720
+                "width": 320,
+                "height": 180
             }
         },
         {
@@ -444,7 +520,13 @@
             "sender_name": "Riinku",
             "sender_title": "Fastest Rat of the Lower Sewers",
             "message": "WAZZUP and CONGRATULATIONS on the big 1 mil!\n\nYour drive to improve yourself and your performances is so amazing, and it pays off! I feel blessed to have been able to cheer you on in person a few times already, and I can't wait to do it again! The concerts in NYC hold a special place in my heart, because hanging out and cheering with fellow Brats and having so much fun together made it unforgettable.\n\nFor now, bask in the glory of your milestone. You deserve this and so much more! BEST IDOL RAT!",
-            "media": null
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/43fb9a100e4fe9111345f78df96e7713.jpg",
+                "width": 2048,
+                "height": 1536,
+                "thumbnail": null
+            }
         },
         {
             "id": "45ef2a5942ec4f682eb55c13ae72c28b",
@@ -476,7 +558,13 @@
             "sender_name": "Saiya",
             "sender_title": "The Last Survivor of his Race",
             "message": "Congratulations on 1 Million Subscribers Bae. You absolutely deserve every single one of these numbers. You have worked hard to reach this milestone and we BRats are proud of your accomplishment.\n          I would like to thank you for giving me the opportunity to watch this milestone. I always thought these types of things were not for me, but there I was, watching and cheering you on as you passed 1M. And now I am stuck learning art to draw you. So thank you and congrats on your achievement.",
-            "media": null
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/4a2f1d777d47d6feeb00f6b605939c82.png",
+                "width": 1280,
+                "height": 1280,
+                "thumbnail": null
+            }
         },
         {
             "id": "4a537189527e0f101ffaaa138d8df191",
@@ -565,14 +653,6 @@
             "media": null
         },
         {
-            "id": "52c7a75dba4e488d1f03bffc2b3bdcee",
-            "decal_variant": 0,
-            "sender_name": "Zura",
-            "sender_title": ", from the abyss",
-            "message": "I saw your debut but it was around 2 years ago that I really started watching entire streams and following you closely, it was one of the best decisions I've ever made. I always look forward to 10pm whenever you stream, you really are good at making people smile\nYou're an amazing singer, dancer and entertainer Bae. I really hope to watch you on stage one day, even if i can't right now and live in Brazil (you have fans all the way over here!)\nThank you for everything you do and congrats on 1M!",
-            "media": null
-        },
-        {
             "id": "54f67df934f3a9cfde2126d05ba2827b",
             "decal_variant": 2,
             "sender_name": "kurojan",
@@ -596,10 +676,10 @@
             "message": "Bae! HUGE congrats on achieving 1 million subs! I've been following you since debut and it's incredible how much you've grown in that time, both as a streamer and a performer! Words cannot even begin to describe how proud I am of you! Me and the rest of the Brats will always be by your side to cheer you on! Ganbatte!",
             "media": {
                 "type": "YouTube",
-                "path": "https://i.ytimg.com/vi/dkywV0pu4fE/maxresdefault.jpg",
+                "path": "https://i.ytimg.com/vi/dkywV0pu4fE/mqdefault.jpg",
                 "video_id": "dkywV0pu4fE",
-                "width": 1280,
-                "height": 720
+                "width": 320,
+                "height": 180
             }
         },
         {
@@ -610,10 +690,10 @@
             "message": "For One of the Brats, I really am proud of you. Bae. 1M is special line. Congratulation!",
             "media": {
                 "type": "YouTube",
-                "path": "https://i.ytimg.com/vi/nf5_Af0Z2fI/maxresdefault.jpg",
+                "path": "https://i.ytimg.com/vi/nf5_Af0Z2fI/mqdefault.jpg",
                 "video_id": "nf5_Af0Z2fI",
-                "width": 1280,
-                "height": 720
+                "width": 320,
+                "height": 180
             }
         },
         {
@@ -670,7 +750,13 @@
             "sender_name": "Mango Konata",
             "sender_title": "Mango Master",
             "message": "Congrats on 1M subs!!\nYou probably get this a lot, but you are actually legitimately so cool!\n\nYour hard work is always incredibly apparent in everything you do. In your Fullmetal Alchemist karaoke stream I remember you talking about all the thought and effort you put in making sure it was just right, and I remember thinking \"wow, bae is so cool!\". I look forward to seeing what you do in the future!\n\nAlso I drew you and your (ex?)wife kissing (on the lips(with tongue)) for new year lmao",
-            "media": null
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/6466e62335cf7b157ac53ca63acf8bf9.jpg",
+                "width": 2400,
+                "height": 3200,
+                "thumbnail": null
+            }
         },
         {
             "id": "65526044efe4077a754dcc99d5cb54c0",
@@ -688,10 +774,10 @@
             "message": "Bae, it's been an amazing ride ever since your debut, it's crazy to see how much you accomplished so far, I'll always remember your performance during the Our Bright Parade festival as one of the best I've ever seen ! As someone that has been there since the early days of council (and remembers EN curse that pushed your debut one day later), Seeing you reach the million subscribers makes me only scream two words : MUCH DESERVED !",
             "media": {
                 "type": "YouTube",
-                "path": "https://i.ytimg.com/vi/NLN60WUypSs/maxresdefault.jpg",
+                "path": "https://i.ytimg.com/vi/NLN60WUypSs/mqdefault.jpg",
                 "video_id": "NLN60WUypSs",
-                "width": 1280,
-                "height": 720
+                "width": 320,
+                "height": 180
             }
         },
         {
@@ -702,10 +788,10 @@
             "message": "A video clip link of a favorite moment with BaeRyS in sync as that is the best moment to cherish the close friendship together in its the finest on a good game of Mario Party Jamboree (even though the game is rigged) but the good times together is peak from your Bae 24 hour stream.\n\nBaeRyS for the win and congratulations on reaching that million milestone too !! :) o7 ",
             "media": {
                 "type": "YouTube",
-                "path": "https://i.ytimg.com/vi/NOrftHAxKQU/maxresdefault.jpg",
+                "path": "https://i.ytimg.com/vi/NOrftHAxKQU/mqdefault.jpg",
                 "video_id": "NOrftHAxKQU",
-                "width": 1280,
-                "height": 720
+                "width": 320,
+                "height": 180
             }
         },
         {
@@ -732,7 +818,13 @@
             "sender_name": "Nichollas",
             "sender_title": "1st Lieutenant of the Brazilian Brat Platoon",
             "message": "Congratulations on the BEEG 1M milestone Bae! I always believed you would achieve such a monumental achievement, since you're such a hard-working, kind and amazing person. You truly inspire me and the other brats to always give our best in life, and I'm very proud to have you as my kami-oshi. Here's to many more millions in the future!",
-            "media": null
+            "media": {
+                "type": "YouTube",
+                "path": "https://i.ytimg.com/vi/Ms1cysYOPVg/mqdefault.jpg",
+                "video_id": "Ms1cysYOPVg",
+                "width": 320,
+                "height": 180
+            }
         },
         {
             "id": "6cfb3411e0471c5603bf26dc33b96a97",
@@ -740,6 +832,14 @@
             "sender_name": "Emotional Nito",
             "sender_title": "Bearing the Rat's Word to faraway lands.",
             "message": "Hey, RAT! How it feels to be the chuunibyou? I know, it sounds strange, but thanks to you I finally accepted my inner chuunibyou! I was living a boring grey life before finding your channel. I was trying to be the most serious man. But now? I accepted myself, and I can say PP jokes to everyone without cringing! It was a slow change, but still!\nAnyway, thank you very much! I wish you everything nice and good! Have fun! Do not overexaggerate yourself, we want to see you alive! ",
+            "media": null
+        },
+        {
+            "id": "6d6a2d82f16a41ef4ab87306ce53fee0",
+            "decal_variant": 2,
+            "sender_name": "Number75",
+            "sender_title": "Of The Infinite Possibilities ",
+            "message": "Congratulations for 1 million brats! I can't believe we've reached this point. I've been around ever since I saw the legendary Minecraft stream, and I've been around ever since. Even though I haven't been able to tune into as many of your streams as I used to, I still follow all you do closely! Thanks for all the entertaining projects you've done so far, and I look forward to all the future projects yet to come!",
             "media": null
         },
         {
@@ -790,7 +890,15 @@
             "sender_name": "Tony Bomboozled",
             "sender_title": "Grand Witness of Girlfailures",
             "message": "One million people obtained the power to witness the Rat Idol in all her chuuni, dorky glory!  Whether you passed your trials and tribulations without fear or shame or with much fear and shame (which was often premium content in it's own way), you have proven to be esteemed showwoman.  I look forward to seeing what you will accomplish in 2025!",
-            "media": null
+            "media": {
+                "type": "YouTubeClip",
+                "path": "https://i.ytimg.com/vi/CBMr-LTcwes/mqdefault.jpg",
+                "video_id": "CBMr-LTcwes",
+                "clip_id": "UgkxEaeER69UQuHjQyDJoJGMgwSMqN-p8LOh",
+                "clipt": "EMDJwQEYyPDBAQ",
+                "width": 320,
+                "height": 180
+            }
         },
         {
             "id": "70c4f834504bbd8e2422bf75e21288ca",
@@ -858,6 +966,14 @@
             "sender_name": "OutOfRice",
             "sender_title": "The Rat Denied Grain",
             "message": "Congratulations on 1 million subscribers Bae! I’m glad I chose you as my first oshi and I hope to continue as a Brat for the foreseeable future!",
+            "media": null
+        },
+        {
+            "id": "7c26b444fc2de69e53de7eb0a98958a0",
+            "decal_variant": 1,
+            "sender_name": "Smeltz",
+            "sender_title": "",
+            "message": "Congratulations for hitting 1Million Bae.",
             "media": null
         },
         {
@@ -940,10 +1056,10 @@
             "message": "G'day Bae! Massive congratulations on reaching the 1 million subscriber milestone!\nFor three years, you've overslept for streams, conquered game after game, created both hype and emotionally-driven songs, danced your heart out on stage, and done everything in between.\nI respect you so much for how hard you work on and off-stream, and seeing your creativity come to life motivates me to want to do the same. You're such a gem and deserve all the love and praise. Keep being awesome!\nKAY BYE o/",
             "media": {
                 "type": "YouTube",
-                "path": "https://i.ytimg.com/vi/SM4QoHgYE1M/maxresdefault.jpg",
+                "path": "https://i.ytimg.com/vi/SM4QoHgYE1M/mqdefault.jpg",
                 "video_id": "SM4QoHgYE1M",
-                "width": 1280,
-                "height": 720
+                "width": 320,
+                "height": 180
             }
         },
         {
@@ -1000,7 +1116,13 @@
             "sender_name": "EmpiKuro",
             "sender_title": "The Rust-clad Pen of Baltic",
             "message": "Hey Bae! Congratz on one million subs! You worked incredibly hard to fulfill your goals one by one over those 3 and a half years and you did an amazing job! All the blood, sweat and tears truly paid off! Every brat is extremely proud of you! Sadly this year i was swamped with a lot of client work so no new art from me, instead i include the very last one i was able to make to commemorate the release of Psycho! Still one of my favorite song of yours, right after, Gekirin! Congratz again!",
-            "media": null
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/923a3015ca98f8d5789b7df49401472a.jpg",
+                "width": 1736,
+                "height": 2209,
+                "thumbnail": null
+            }
         },
         {
             "id": "9316b23919357b9a10961fe481c551a4",
@@ -1166,10 +1288,10 @@
             "message": "Congrats on 1 million subscribers, Bae!\n\nWatching you grow as an idol and streamer—from your 3D debut to Soar and BD—has been awe-inspiring. Seeing you perform live and hanging out with the brats are memories I’ll never forget. I can't put into words how proud I am to have you as my kami oshi. I'll support you for as long as I can!\n\nYour dancing even got me into dance games—I recently FC’d RxRxR! Thanks for inspiring new hobbies and helping me meet awesome people beyond hololive and vtubers!",
             "media": {
                 "type": "YouTube",
-                "path": "https://i.ytimg.com/vi/CieV7Y3Yras/maxresdefault.jpg",
+                "path": "https://i.ytimg.com/vi/CieV7Y3Yras/mqdefault.jpg",
                 "video_id": "CieV7Y3Yras",
-                "width": 1280,
-                "height": 720
+                "width": 320,
+                "height": 180
             }
         },
         {
@@ -1204,10 +1326,10 @@
             "message": "You always said you didn't believe this moment would come, but I thought you deserved it.\nSince I got to know you, my life has become brighter and more enjoyable. I love this hard working dancing rat. 축하해요. 사랑해요!",
             "media": {
                 "type": "YouTube",
-                "path": "https://i.ytimg.com/vi/gIEo2WLADac/maxresdefault.jpg",
+                "path": "https://i.ytimg.com/vi/gIEo2WLADac/mqdefault.jpg",
                 "video_id": "gIEo2WLADac",
-                "width": 1280,
-                "height": 720
+                "width": 320,
+                "height": 180
             }
         },
         {
@@ -1250,10 +1372,10 @@
             "message": "I've only been watching your streams regularly since the Mario Kart tourney this past January(in fact that was the first video I watched this year!). I often kick myself over spending the better part of the last three years only watching clips or the odd big collab when they happened, but ultimately I'm glad to be here and wouldn't give up watching the cutest idol rat for anything! The clip I included is one of the most comforting things I've ever experienced in your streams. STREAM KOKORONASHI!",
             "media": {
                 "type": "YouTube",
-                "path": "https://i.ytimg.com/vi/5p0aWUvg5u4/maxresdefault.jpg",
+                "path": "https://i.ytimg.com/vi/5p0aWUvg5u4/mqdefault.jpg",
                 "video_id": "5p0aWUvg5u4",
-                "width": 1280,
-                "height": 720
+                "width": 320,
+                "height": 180
             }
         },
         {
@@ -1280,10 +1402,10 @@
             "message": "Well Bae, you finally did it! You've successfully reached 1 Million Subscribers!!!! It took ages but I always knew you would get 1M subs one day and you truly deserve it for so many reasons! I think it's only fitting that the clip I'll share here is how I discovered you and became one of your loyal fans, there are many memories but this one I will always remember.\n\nThank you so much for everything! Congratulations for getting 1 Million subs! \n\nFrom your British Brat\nZyrob{Codename:Zyro-B}",
             "media": {
                 "type": "YouTube",
-                "path": "https://i.ytimg.com/vi/AQAMq3HyoDY/maxresdefault.jpg",
+                "path": "https://i.ytimg.com/vi/AQAMq3HyoDY/mqdefault.jpg",
                 "video_id": "AQAMq3HyoDY",
-                "width": 1280,
-                "height": 720
+                "width": 320,
+                "height": 180
             }
         },
         {
@@ -1317,7 +1439,7 @@
             "decal_variant": 3,
             "sender_name": "Pengu",
             "sender_title": "Frostbane Shadowsoul",
-            "message": "Congrants on 1M subs. keep going, mane-o will be looking for you",
+            "message": "Congrats on 1M subs. keep going, mane-o will be looking for you",
             "media": null
         },
         {
@@ -1336,10 +1458,10 @@
             "message": "Congratulations on reaching 1 million subs, Bae!  It is such a well-deserved achievement after all your hard work.  Your commitment to providing great content and your strive to improve is truly admirable.  With every project and new event you provide, you continue to show just how talented and amazing you really are! Us Brats couldn't have found a better oshi! I am excited to see you reach even greater heights that I know you are capable of!\n\nMuch love, Bae!",
             "media": {
                 "type": "YouTube",
-                "path": "https://i.ytimg.com/vi/wKwmp-f8rLc/maxresdefault.jpg",
+                "path": "https://i.ytimg.com/vi/wKwmp-f8rLc/mqdefault.jpg",
                 "video_id": "wKwmp-f8rLc",
-                "width": 1280,
-                "height": 720
+                "width": 320,
+                "height": 180
             }
         },
         {
@@ -1458,7 +1580,15 @@
             "sender_name": "__yellowtail__",
             "sender_title": "The Favored of the Amber Light",
             "message": "Hello Bae! Thank you so much for being such an enthusiastic and hardworking rat! You've always been a burning bright star the moment you debuted, and for everything you continue to do, I get a big smile because of how talented you are! Thank you for being a great oshi!\n\nKeep up the good work, Chaos! Don't let the Thorned Chains of the Fearinvoker get you! Your chaotic brats got your back!",
-            "media": null
+            "media": {
+                "type": "YouTubeClip",
+                "path": "https://i.ytimg.com/vi/XzEMK0i4GvU/mqdefault.jpg",
+                "video_id": "XzEMK0i4GvU",
+                "clip_id": "UgkxCqzxMNMVZEpPyK1iDeEXAS-jPVR7LIt7",
+                "clipt": "EMT2wAMYpMvEAw",
+                "width": 320,
+                "height": 180
+            }
         },
         {
             "id": "d7b2dfce03c1f20062afc427922b271b",
@@ -1482,10 +1612,10 @@
             "message": "I'm so sorry I wrote it in Korean, but I really wanted to say it as Korean!\n데뷔 방송부터 봤던게 벌써 몇년전이네요. 처음에 Bae를 만났을때가 생각나요 그 전까지는 버튜버에 대해서 알고는 있었지만 이렇게 빠지게 될줄은 몰랐어요. Bae는 너무 열정적인 아이돌이에요, 처음에는 그냥 마냥 개구장이 텐션 높은 친구인줄 알았는데 매년매년 새로운 모습을 볼 수 있어서 놀라웠어요. 매일매일 바쁘게 사느라 방송을 보는 횟수가 줄어서 너무 슬프지만 언제나 응원하고 있으니까, 제가 채팅창이나 트위터에서 없어졌다고 해서 한명의 Brats를 잃었나 하고 안슬퍼했으면 좋겠어요! 솔로라이브 꼭 했으면 좋겠어요... 화이팅!",
             "media": {
                 "type": "YouTube",
-                "path": "https://i.ytimg.com/vi/wyZUl279Qs0/maxresdefault.jpg",
+                "path": "https://i.ytimg.com/vi/wyZUl279Qs0/mqdefault.jpg",
                 "video_id": "wyZUl279Qs0",
-                "width": 1280,
-                "height": 720
+                "width": 320,
+                "height": 180
             }
         },
         {
@@ -1558,7 +1688,13 @@
             "sender_name": "JC-Jowoco",
             "sender_title": "The Harbinger of Derp",
             "message": "Congrats, you awesome chuuni rat! To the next milestone!",
-            "media": null
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/e4d1e6a0f112594c1e678b9a092fb9d2.jpg",
+                "width": 1050,
+                "height": 1050,
+                "thumbnail": null
+            }
         },
         {
             "id": "e51ea05a052f04f37c699eafc0077aa7",
@@ -1574,7 +1710,13 @@
             "sender_name": "SLZY",
             "sender_title": "Unknown patriarch of chaos ",
             "message": "CONGRATULATIONS ON A MILLION BRATS BAE-CHANN!! HERE'S TO WORLD DOMINATION ",
-            "media": null
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/e65fe1f4dfe3178813bfa3bfae6d7d12.jpg",
+                "width": 768,
+                "height": 918,
+                "thumbnail": null
+            }
         },
         {
             "id": "e6bfa1f1257f6bf71eb8afda78f69a5b",
@@ -1582,6 +1724,14 @@
             "sender_name": "cyanoacry",
             "sender_title": "Harbinger of Flight and Demon of Travel",
             "message": "Congratulations!!! Bae, you've worked so hard at your goals and it's so awesome to see you reach 1 mil!! Hope you continue to have fun with your music and streams and dance lessons, and to a good 2025!!",
+            "media": null
+        },
+        {
+            "id": "e8b003bfb7f669fba4d733ceb10dd52b",
+            "decal_variant": 4,
+            "sender_name": "B.S",
+            "sender_title": "",
+            "message": "Million milestone is a moment where your meandering soul find the way into meaningful path. Contlgratulations for 1M!",
             "media": null
         },
         {
@@ -1638,10 +1788,10 @@
             "message": "Congratulations on reaching 1 Million subs Bae! Thank you for being an inspiration for me and all the other Brats. Your energy is contagious and you are always giving it your all and that's what me and I'm sure most of us love about you. I always enjoy watching you perform  live and I'm glad I got to witness you perform twice in person. Not gonna lie, you made me want to pick up dancing again. I will always continue to support you and I will do my best to catch more of your lives in person.",
             "media": {
                 "type": "YouTube",
-                "path": "https://i.ytimg.com/vi/SaBUMuxjP5g/maxresdefault.jpg",
+                "path": "https://i.ytimg.com/vi/SaBUMuxjP5g/mqdefault.jpg",
                 "video_id": "SaBUMuxjP5g",
-                "width": 1280,
-                "height": 720
+                "width": 320,
+                "height": 180
             }
         },
         {
@@ -1650,7 +1800,13 @@
             "sender_name": "itosaga",
             "sender_title": "Immortus Testament Order",
             "message": "Baelz of the Hakos! I will always support this chuuni rat till the day I perish! But really seeing you giving it your all at the things you love just makes me want to support you even more and more. I hope you never change and keep having fun~\nOh and my favorite clip of you is your Yandere batsu in Mario Kart. There's uhhh a certain line that I keep replaying... (Seriously girl, you got talent)",
-            "media": null
+            "media": {
+                "type": "YouTube",
+                "path": "https://i.ytimg.com/vi/c2wAyLCNqOY/mqdefault.jpg",
+                "video_id": "c2wAyLCNqOY",
+                "width": 320,
+                "height": 180
+            }
         },
         {
             "id": "f22ca8e39112380dd8c3b7c6ce551055",
@@ -1706,10 +1862,10 @@
             "message": "Congrats on the 1 Million Subscribers, Bae! It's been a wild ride! I've been following since the Rat Simulator stream, and no matter what you do, I always have a fun time watching! I will never forget the times when we bowled in Spocco Square or go-karting in Wild Woods. All I wanted to say is... Thank you for bringing us so much joy and laughter, and brightening our lives with everything you do! We'll always be here to support you, no matter what ❤️",
             "media": {
                 "type": "YouTube",
-                "path": "https://i.ytimg.com/vi/hOmM6HJq2Jo/maxresdefault.jpg",
+                "path": "https://i.ytimg.com/vi/hOmM6HJq2Jo/mqdefault.jpg",
                 "video_id": "hOmM6HJq2Jo",
-                "width": 1280,
-                "height": 720
+                "width": 320,
+                "height": 180
             }
         },
         {
@@ -1719,6 +1875,20 @@
             "sender_title": "Destiny, The Lord of Order",
             "message": "Thank you Bae for being an inspiration and guiding light to motivate me to always do my best. I will always support you and your Chuuni ways. Sasuga Idol Rat",
             "media": null
+        },
+        {
+            "id": "ff3fc8694e82690fbe056f90610197da",
+            "decal_variant": 3,
+            "sender_name": "RyderBB123",
+            "sender_title": "",
+            "message": "Congrats on hitting one million subs! Your streams are so entertaining, and you practice extra hard for all your 3D dance performances. Every time you take the stage, whether it's your voice or your moves, you steal the show! Thank you, Bae! You are the best rat idol!",
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/ff3fc8694e82690fbe056f90610197da.jpg",
+                "width": 847,
+                "height": 1200,
+                "thumbnail": null
+            }
         }
     ]
 }
