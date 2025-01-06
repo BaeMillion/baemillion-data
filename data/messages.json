@@ -1,5 +1,5 @@
 {
-    "charset_sans_kr": "가각강개게겠고과구국귀그까꼭나났내냥너네년노놀높느는니다달대덕던데도독돈돌동될든들땃때라랐랑래러렇로를리마만말매멤면명몇모목몰무미밌바방버번벌베벨보볼봤부분불뷔브빠쁘사새생서성션소솔송수슬습시심십써아안알았앞야어언얻없었에여열오요우운원웠위으은을음응의이인일잃있자장재적전정제졌좋주줄쥐즈지진짱창채처첫최축친터텐튜트팅퍼포프하한할해했헌홀화활횟힘",
+    "charset_sans_kr": "가각강개게겠고과구국귀그까꼭나났내냥너네년노놀높느는니다달대덕던데도독돈돌동될든들땃때라랐랑래러렇로를리마만말매멤면명몇모목몰무미밌바방버번벌베벨보볼봤부분불뷔브빠쁘사새생서성션소솔송수슬습시심십써아안알았앞야어언얻없었에여열오요우운원웠위으은을음응의이인일잃있자장재적전정제졌좋주줄쥐즈지진짱창채처첫최축친터텐튜트팅퍼포프하한할합해했헌홀화활횟힘",
     "charset_sans_jp": "≦≧　、。『』〜あいうえおかがきくこごさざしじすせぜぞただちっつてでとどなにねのはばぱぶべほぽまみめもゃやゅよらりるれろわをんイウェォオカジスズタダチネハパフベマャリルンー万上世人企何你像元兄光全六具凛加動可叶名回夜夢大好妳嬉将年弟張当応愛憧我推援最有望本歌気油活渇焔玹画界登白神私竹筆箱終組羅者董虚血言談謝象貰起身軒部録閃闇雜面頑鮮黒！（）",
     "messages": [
         {
@@ -359,18 +359,12 @@
             "media": null
         },
         {
-            "id": "2223af48f40f339228220f926f3b62de",
-            "decal_variant": 2,
-            "sender_name": "よせつ",
-            "sender_title": "よせつ, the Twilight of Fey",
-            "message": "Congratulations on reaching 1 million subscribers!! I’ll always be a fan supporting you.\nThank you for bringing us so much fun! Love you! ❤️",
-            "media": {
-                "type": "Image",
-                "path": "public/images/messages/2223af48f40f339228220f926f3b62de.jpg",
-                "width": 1448,
-                "height": 2048,
-                "thumbnail": null
-            }
+            "id": "2456f1331305c638b12729f2077c6f5a",
+            "decal_variant": 3,
+            "sender_name": "Dillon Paradis",
+            "sender_title": "Buff Brat",
+            "message": "Hey Bae, \nSeriously, congratulations. Streaming, dancing, singing, and all the behind the scenes work you do while juggling personal obligations is a lot of work, but you managed to do all that AND hit 1 million subs. That's dope. I just wish you put as much work into doing pull-ups. I'm looking forward to an update on those.",
+            "media": null
         },
         {
             "id": "26e473e54ce9db28835f9c567fd89924",
@@ -425,6 +419,20 @@
             "sender_title": "",
             "message": "Hiya Bae, new to your content but congrats on reaching 1Mil Subscribers. So happy for you 🥳❤️",
             "media": null
+        },
+        {
+            "id": "2d8d18026d76974cc32acca0e9b8ba5a",
+            "decal_variant": 0,
+            "sender_name": "よせつ",
+            "sender_title": "The Twilight of Fey",
+            "message": "Congratulations on reaching 1 million subscribers!! I’ll always be a fan supporting you.\nThank you for bringing us so much fun! Love you! ❤️",
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/2d8d18026d76974cc32acca0e9b8ba5a.jpg",
+                "width": 1448,
+                "height": 2048,
+                "thumbnail": null
+            }
         },
         {
             "id": "2e848a5935e4001f70db5eff9975547a",
@@ -495,6 +503,14 @@
                 "width": 320,
                 "height": 180
             }
+        },
+        {
+            "id": "38616ccad0dfac31cb92e9365f6b8674",
+            "decal_variant": 3,
+            "sender_name": "Monstruo ",
+            "sender_title": "Obliterator of Iron ",
+            "message": "Bae, because of you I always feel motivated to keep going, even on the hardest days. Your music, streams, and performances are always a shining light in my darkest hours. Ever since I’ve became a brat I’ve traveled more, made new friends, and continued my fitness journey with more passion than ever! \n\nYou truly are an inspiration to I and thousands of other Brats in the world! Keep being yourself and shoot for the stars, we appreciate you so very much!!! ",
+            "media": null
         },
         {
             "id": "3a2ea34d839ea32622bfccf6f94d02a5",
@@ -967,6 +983,14 @@
             }
         },
         {
+            "id": "6b511828aeafd654128a5ca41d6b42ba",
+            "decal_variant": 4,
+            "sender_name": "kanisalad",
+            "sender_title": "Drowning, SUFFOCATING, LOATHING, DESPAIRRRR",
+            "message": "CONGRATS ON HITTING 1MILLION BAE!!! You are the most talented idol rat and you worked so hard these years you deserve all the best in the world. You have truly motivated me (and many brats) to work harder and become better versions of ourselves. Also, thank you for creating such an amazing album last year, your songs really helped me through some difficult times. Please take good care of your health this year, healthy rat best rat <3 I will continue to love and support you! ",
+            "media": null
+        },
+        {
             "id": "6ca9cfb417c010ce0e0aa62f9b064535",
             "decal_variant": 1,
             "sender_name": "Nichollas",
@@ -1068,6 +1092,14 @@
             "sender_name": "Mits_d",
             "sender_title": "",
             "message": "Congrats on 1M brats Bae! Been here since just after debut, glad to see you hit this milestone. Enjoyed bantering with you and chat over these past few years and look forward to continue to do so. Not able to watch live as often anymore but always enjoy how comfy your streams and community are.",
+            "media": null
+        },
+        {
+            "id": "72850091e2a09ddda2da09c97fc3e82e",
+            "decal_variant": 1,
+            "sender_name": "Taotan Cos",
+            "sender_title": "Lone wolf cosplayer, I can transform when the full moon rising",
+            "message": "Thank you so much for your hard working Bae Chan! From the first day until today, I always believe in you and your potential. I know you work so hard on everything that you do that also inspired me a lot, to do my best everyday! I’ll continue to supports you until the end, until you achieve your goal! You reallyyyy deserving all of the loves❤️❤️❤️ \n\nAlso! Remember to break sometime, taking care for your health and have enough rest~\n\nBIG LOVE",
             "media": null
         },
         {
@@ -1205,7 +1237,7 @@
             "decal_variant": 10,
             "sender_name": "Mikururun",
             "sender_title": "Girlfailure Katana wielder Chuuni Artist",
-            "message": "Watching you grow, shine, and embrace everything you’ve worked so hard for fills my heart with so much joy Bae! I still cannot believe I travelled half the world to se you and the brats at BD. the community you have build is so funny, welcoming and chaotic that I feel at home even if my english is not my first language. Please always remember that we're proud of you and that you have little brats in every corner of the world. I'm bad with words but I hope this drawing transmits my passion",
+            "message": "Watching you grow, shine, and embrace everything you’ve worked so hard for fills my heart with so much joy Bae! I still cannot believe I travelled half the world to see you and the brats at BD. the community you have build is so funny, welcoming and chaotic that I feel at home even if my english is not my first language. Please always remember that we're proud of you and that you have little brats in every corner of the world. I'm bad with words but I hope this drawing transmits my passion",
             "media": {
                 "type": "Image",
                 "path": "public/images/messages/8011ce67466f0b2b6e8494f59b0a67ec.png",
@@ -1545,6 +1577,14 @@
             }
         },
         {
+            "id": "aca2f6e2fbf859162b816b106fb45afb",
+            "decal_variant": 3,
+            "sender_name": "Izumi",
+            "sender_title": "The chaotic thigh master",
+            "message": "HAPPY 1 MIL SUBS BAE IM SO PROUD OF YOU",
+            "media": null
+        },
+        {
             "id": "ad287b0d98ac30f07eb50ead20e9e34e",
             "decal_variant": 0,
             "sender_name": "Sock",
@@ -1736,7 +1776,13 @@
             "sender_name": "SharkyDoko",
             "sender_title": "The lost soul of the Deep End",
             "message": "Happy Million Bae~ \nCongrats on reaching the million milestone! It was all thanks to your hard work and effort!!\nYour streams are always so fun and full of energy it really keeps us entertained! Not only that but your dance moves are one of the best~~!!\nIt's been a lovely journey, hope you could achieve even more in the future!!",
-            "media": null
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/c799a4c18b1345fddb74307c8400edc4.png",
+                "width": 2480,
+                "height": 2100,
+                "thumbnail": null
+            }
         },
         {
             "id": "c81690fa35ad0a2dd24eb57c4294da82",
@@ -1766,6 +1812,14 @@
             "sender_name": "Hey_Its_Ruby",
             "sender_title": "The Dazzling Red Gem ",
             "message": "Congrats on hitting a million, boss! You continue to be an inspiration for me and many other brrats to work our hardest in pursuing our own dreams. Thank you for being such an amazing rat!",
+            "media": null
+        },
+        {
+            "id": "ca7d7c6b5a1e67f81ad1028e8ee4954e",
+            "decal_variant": 0,
+            "sender_name": "Rel3008",
+            "sender_title": "",
+            "message": "Hello Bae! Congratulations on 1 Million Brats! Thank you for being the best rat idol! Your streams have been a constant on my life for these last 3 years, making me happy and feeling that I’m accompanied.\nThank you again for being you, I’m here ‘till the end!",
             "media": null
         },
         {
@@ -1877,6 +1931,14 @@
             "media": null
         },
         {
+            "id": "d0633710922e9a3bf4f36efd76896060",
+            "decal_variant": 0,
+            "sender_name": "WallyWW",
+            "sender_title": "2nd patriarch of the brat clan",
+            "message": "1 million already?! As a  day 1 brat I'm so proud of watching every day how you grow and improve in your idol journey. We are getting that sololive girl!! ORA!!",
+            "media": null
+        },
+        {
             "id": "d56fa206cff8be5ead1aac3aead07100",
             "decal_variant": 0,
             "sender_name": "羅董LODONG",
@@ -1898,6 +1960,20 @@
                 "clipt": "EMT2wAMYpMvEAw",
                 "width": 320,
                 "height": 180
+            }
+        },
+        {
+            "id": "d758d2d43de7010e9c0e75f78b4091ad",
+            "decal_variant": 2,
+            "sender_name": "Mika_Zzuki",
+            "sender_title": "An unknown Brat <3",
+            "message": "Hello Bae, I've said all my thoughts in the letters I sent you. So today, I wish you a more fortunate future, you've worked hard to reach 1 million subs (but please take care of your health ><), I'm so lucky that you're my oshi, you've given me a lot of inspiration. Honestly, I thank you very much and congratulations on reaching 1 million followers <3",
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/d758d2d43de7010e9c0e75f78b4091ad.png",
+                "width": 4961,
+                "height": 7016,
+                "thumbnail": null
             }
         },
         {
@@ -1957,6 +2033,14 @@
                 "height": 3080,
                 "thumbnail": null
             }
+        },
+        {
+            "id": "da43d0388aaff405a6330ffe1f9ac3cf",
+            "decal_variant": 4,
+            "sender_name": "Feline",
+            "sender_title": "Cat, who loves rat",
+            "message": "So glad to see you accomplish your goal to 1 million!\nand surprise you said it is another start line.\nHope I can watch how far you can go, and I wish I could cheer until the very end.\nYou are best rat idol.",
+            "media": null
         },
         {
             "id": "daa11e33eaaa80f902086041f7aaacb7",
@@ -2023,7 +2107,7 @@
             "decal_variant": 1,
             "sender_name": "EleMas*",
             "sender_title": "",
-            "message": "\nCongratulations on reaching 1 million!\n\nI'm here because of you—my kamioshi—who makes me smile, and the now is here since we’re together with you\n\nI love your balance(?) of your overflowing chaotic & chuuni energy and oversleeping 😂 (I do often oversleep as well thank you)\n\nI’m keep looking forward to being with you! To the next milestone! Love you ❤️ ",
+            "message": "\nCongratulations on reaching 1 million!\n\nI'm here because of you—my kamioshi—who makes me smile, and the now is here since we’re together with you\n\nI love your balance(?) of your overflowing chaotic & chuuni energy and oversleeping 😂 (I do often oversleep as well thank you)\n\nI’ll keep looking forward to being with you! To the next milestone! Love you ❤️ ",
             "media": null
         },
         {
@@ -2142,6 +2226,14 @@
             "sender_name": "ShaggyBaggins",
             "sender_title": "Domain Expansion: JDON of Snoring Souls",
             "message": "Congrats on 1 million Bae! All of your dedication and countless hours of hard work continues to pay off. It's been an incredible journey watching you grow, create, and make your dreams a reality. You continue to inspire not only us Brats, but everyone around you. Thank you for being such a positive impact on our lives. Keep your passion ignited like a blazing fire, and hold your determination strong. Everyone, especially all of the Brats, will always support you. ♥️",
+            "media": null
+        },
+        {
+            "id": "ebf1e3357eeabbd2af075e988ad45c67",
+            "decal_variant": 1,
+            "sender_name": "Shimadacat ",
+            "sender_title": "",
+            "message": "Bae!! I've only been in this fandom for about a year now, but in true chaos nature, you forced your way into my heart and quickly became my kamioshi! Relatable, hilarious, a brilliant dancer and a singer on the stage, it has been amazing watching you grow, and it's inspired me to do the same. If you had any doubts if you belonged, I think you absolutely do--and so do the rest of us brats! You've got million of us cheering you on! Thank you, and wherever you go, good luck!",
             "media": null
         },
         {
@@ -2347,12 +2439,34 @@
             }
         },
         {
+            "id": "f98b11465fea3454d53de3951f515d93",
+            "decal_variant": 2,
+            "sender_name": "Collsaur (NandoSu)",
+            "sender_title": "the Mighty, Wise, and Cool, Colonel Saurus",
+            "message": "Thank you Bae for being our \"Bae\". Even though there will be lot of challenge, and even if there is a haters out there, and even thought there will only few support you, keep in mind, i will at least guarantee for myself supporting you.... BAE is... BAE~",
+            "media": null
+        },
+        {
             "id": "f9aa695618ac7e2d5f9679011c99ba09",
             "decal_variant": 0,
             "sender_name": "Stark Mandalore ",
             "sender_title": "The Night Shepherd ",
             "message": "Congratulations to the best Rat Idol!! You've grown and accomplished so much since debut and this proud Brat is excited to see you continue to do amazing things. You're doing great, Bae! We'll always be there cheering for you! ",
             "media": null
+        },
+        {
+            "id": "fb414fe06d77bdfe7d5ad22490b91e96",
+            "decal_variant": 0,
+            "sender_name": "Yushin",
+            "sender_title": "",
+            "message": "100만 구독자 축하합니다!",
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/fb414fe06d77bdfe7d5ad22490b91e96.jpg",
+                "width": 2600,
+                "height": 3333,
+                "thumbnail": null
+            }
         },
         {
             "id": "fd2167c2196e076638171c433b1cd40f",
