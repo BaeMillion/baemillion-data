@@ -47,6 +47,14 @@
             }
         },
         {
+            "id": "0506da329f8a06f1db656c0f4b005fed",
+            "decal_variant": 3,
+            "sender_name": "MysticMark",
+            "sender_title": "Disciple of Chaos",
+            "message": "WAZZUP Bae?!\nTis I, the redeemed brat! The disciple of chunni! The one true Mark! The keeper of the PP floodgates! The timer of idol meetings! The lover of the chaos rat! Your best friend MysticMark! \n\nWITNESS MEEEEEEEE\nAND JDON YOUR SOUL!\nCongrats on 1 million Bae! Thank you so much for being my favorite rat idol and I am super hyped to see what you have in store for us in 2025 (maybe sololive?)\nRegardless, thank you Bae, I will support you as long as I draw breath! <3 <3 <3",
+            "media": null
+        },
+        {
             "id": "0674afeeaece600a66a88a7cffb415c2",
             "decal_variant": 3,
             "sender_name": "BigCheeze",
@@ -510,7 +518,15 @@
             "sender_name": "Monstruo ",
             "sender_title": "Obliterator of Iron ",
             "message": "Bae, because of you I always feel motivated to keep going, even on the hardest days. Your music, streams, and performances are always a shining light in my darkest hours. Ever since I’ve became a brat I’ve traveled more, made new friends, and continued my fitness journey with more passion than ever! \n\nYou truly are an inspiration to I and thousands of other Brats in the world! Keep being yourself and shoot for the stars, we appreciate you so very much!!! ",
-            "media": null
+            "media": {
+                "type": "YouTubeClip",
+                "path": "https://i.ytimg.com/vi/Y6hCUcleJyU/mqdefault.jpg",
+                "video_id": "Y6hCUcleJyU",
+                "clip_id": "UgkxX9hemcccKg47fvI39_9YoBlOkuVDFzXW",
+                "clipt": "ENepsQEYu_KzAQ",
+                "width": 320,
+                "height": 180
+            }
         },
         {
             "id": "3a2ea34d839ea32622bfccf6f94d02a5",
@@ -988,7 +1004,13 @@
             "sender_name": "kanisalad",
             "sender_title": "Drowning, SUFFOCATING, LOATHING, DESPAIRRRR",
             "message": "CONGRATS ON HITTING 1MILLION BAE!!! You are the most talented idol rat and you worked so hard these years you deserve all the best in the world. You have truly motivated me (and many brats) to work harder and become better versions of ourselves. Also, thank you for creating such an amazing album last year, your songs really helped me through some difficult times. Please take good care of your health this year, healthy rat best rat <3 I will continue to love and support you! ",
-            "media": null
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/6b511828aeafd654128a5ca41d6b42ba.jpg",
+                "width": 1536,
+                "height": 2048,
+                "thumbnail": null
+            }
         },
         {
             "id": "6ca9cfb417c010ce0e0aa62f9b064535",
@@ -1100,7 +1122,13 @@
             "sender_name": "Taotan Cos",
             "sender_title": "Lone wolf cosplayer, I can transform when the full moon rising",
             "message": "Thank you so much for your hard working Bae Chan! From the first day until today, I always believe in you and your potential. I know you work so hard on everything that you do that also inspired me a lot, to do my best everyday! I’ll continue to supports you until the end, until you achieve your goal! You reallyyyy deserving all of the loves❤️❤️❤️ \n\nAlso! Remember to break sometime, taking care for your health and have enough rest~\n\nBIG LOVE",
-            "media": null
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/72850091e2a09ddda2da09c97fc3e82e.png",
+                "width": 4920,
+                "height": 3690,
+                "thumbnail": null
+            }
         },
         {
             "id": "735395c028b532597a3a7455ebb3499a",
@@ -1655,6 +1683,20 @@
             "media": null
         },
         {
+            "id": "b523fee44d99858e8e89f85c21b899bd",
+            "decal_variant": 1,
+            "sender_name": "Daaku",
+            "sender_title": "The Old man",
+            "message": "cipe yats !!eaB sbus noilliM 1 no stargnoC",
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/b523fee44d99858e8e89f85c21b899bd.jpg",
+                "width": 3277,
+                "height": 4096,
+                "thumbnail": null
+            }
+        },
+        {
             "id": "b5461e22315f504a7bbe6161e80d01ff",
             "decal_variant": 1,
             "sender_name": "Aggra",
@@ -1805,6 +1847,20 @@
             "sender_title": "Aquahedron from Eternal Abyss",
             "message": "it's been a long time coming, but you've finally made it! you've singlehandedly changed the lives of so many brats, and watching you grow from a small rat to the chuuni rat we see today fills us with pride! (yes, i used the P-word, ban me >:3) work hard, play hard, and most importantly, rest well!",
             "media": null
+        },
+        {
+            "id": "c934d63968dc5ffa252574ba8c04d417",
+            "decal_variant": 3,
+            "sender_name": "advarcher",
+            "sender_title": "YoRHa's Kamuro-cho Art Peddler",
+            "message": "BAE. Congrats on reaching 1 million!!! Been seeing you grow all these years and dance your heart out and do your best you absolutely can for us! You're such an amazing person and streamer and I know no matter whether it's shredding the dance floor on stage, or screaming your lungs out on stream, you'll keep soaring the skies like a dragon!",
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/c934d63968dc5ffa252574ba8c04d417.jpg",
+                "width": 4096,
+                "height": 2650,
+                "thumbnail": null
+            }
         },
         {
             "id": "ca244b589ce3b6d8f192c43e1270511f",
@@ -2435,6 +2491,20 @@
                 "path": "public/images/messages/f88a5449766579e0e123d21446e86d2c.jpg",
                 "width": 870,
                 "height": 1805,
+                "thumbnail": null
+            }
+        },
+        {
+            "id": "f89fdfb90e94bbce9c37b435ef421c8f",
+            "decal_variant": 0,
+            "sender_name": "SK_Jynx",
+            "sender_title": "Jynx, Drawer of Rats",
+            "message": "Congratulations on 1,000,000, Bae!! That's an incredible achievement, and hard to imagine how many people that truly is. You're so hard working, and deserving of this amazing milestone! 💖\n\nBe proud of everything you've done! I hope to draw you much more on your road to 2,000,000!~ 😉🎲 (I wish to do another Driptaro for 2025~)",
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/f89fdfb90e94bbce9c37b435ef421c8f.png",
+                "width": 2550,
+                "height": 3450,
                 "thumbnail": null
             }
         },
