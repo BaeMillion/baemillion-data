@@ -43,7 +43,11 @@
                 "path": "public/images/messages/03c65aab001598330ed35c5b2343a3d3.png",
                 "width": 5760,
                 "height": 3456,
-                "thumbnail": null
+                "thumbnail": {
+                    "path": "public/images/messages/03c65aab001598330ed35c5b2343a3d3_thumb.png",
+                    "width": 600,
+                    "height": 360
+                }
             }
         },
         {
@@ -409,7 +413,11 @@
                 "path": "public/images/messages/2998ab7a1b92ffff749490130294fa16.jpg",
                 "width": 3300,
                 "height": 2460,
-                "thumbnail": null
+                "thumbnail": {
+                    "path": "public/images/messages/2998ab7a1b92ffff749490130294fa16_thumb.png",
+                    "width": 600,
+                    "height": 447
+                }
             }
         },
         {
@@ -1127,7 +1135,11 @@
                 "path": "public/images/messages/72850091e2a09ddda2da09c97fc3e82e.png",
                 "width": 4920,
                 "height": 3690,
-                "thumbnail": null
+                "thumbnail": {
+                    "path": "public/images/messages/72850091e2a09ddda2da09c97fc3e82e_thumb.png",
+                    "width": 600,
+                    "height": 450
+                }
             }
         },
         {
@@ -1217,7 +1229,11 @@
                 "path": "public/images/messages/7cbf6ed0af9afa5370dab6b058de74e7.png",
                 "width": 2550,
                 "height": 2466,
-                "thumbnail": null
+                "thumbnail": {
+                    "path": "public/images/messages/7cbf6ed0af9afa5370dab6b058de74e7_thumb.png",
+                    "width": 600,
+                    "height": 580
+                }
             }
         },
         {
@@ -1401,7 +1417,11 @@
                 "path": "public/images/messages/8dd5ab215dd52be709f6f8675bee5ca1.png",
                 "width": 2000,
                 "height": 2000,
-                "thumbnail": null
+                "thumbnail": {
+                    "path": "public/images/messages/8dd5ab215dd52be709f6f8675bee5ca1_thumb.png",
+                    "width": 600,
+                    "height": 600
+                }
             }
         },
         {
@@ -1415,7 +1435,11 @@
                 "path": "public/images/messages/923a3015ca98f8d5789b7df49401472a.jpg",
                 "width": 1736,
                 "height": 2209,
-                "thumbnail": null
+                "thumbnail": {
+                    "path": "public/images/messages/923a3015ca98f8d5789b7df49401472a_thumb.png",
+                    "width": 600,
+                    "height": 763
+                }
             }
         },
         {
@@ -1837,7 +1861,11 @@
                 "path": "public/images/messages/c799a4c18b1345fddb74307c8400edc4.png",
                 "width": 2480,
                 "height": 2100,
-                "thumbnail": null
+                "thumbnail": {
+                    "path": "public/images/messages/c799a4c18b1345fddb74307c8400edc4_thumb.png",
+                    "width": 600,
+                    "height": 508
+                }
             }
         },
         {
@@ -1873,7 +1901,11 @@
                 "path": "public/images/messages/c934d63968dc5ffa252574ba8c04d417.jpg",
                 "width": 4096,
                 "height": 2650,
-                "thumbnail": null
+                "thumbnail": {
+                    "path": "public/images/messages/c934d63968dc5ffa252574ba8c04d417_thumb.png",
+                    "width": 600,
+                    "height": 388
+                }
             }
         },
         {
@@ -2043,7 +2075,11 @@
                 "path": "public/images/messages/d758d2d43de7010e9c0e75f78b4091ad.png",
                 "width": 4961,
                 "height": 7016,
-                "thumbnail": null
+                "thumbnail": {
+                    "path": "public/images/messages/d758d2d43de7010e9c0e75f78b4091ad_thumb.png",
+                    "width": 600,
+                    "height": 849
+                }
             }
         },
         {
@@ -2101,7 +2137,11 @@
                 "path": "public/images/messages/d9c2b046476111f6b727f695a779da83.jpg",
                 "width": 3040,
                 "height": 3080,
-                "thumbnail": null
+                "thumbnail": {
+                    "path": "public/images/messages/d9c2b046476111f6b727f695a779da83_thumb.png",
+                    "width": 600,
+                    "height": 608
+                }
             }
         },
         {
@@ -2167,7 +2207,11 @@
                 "path": "public/images/messages/de3e5ec1ff0056dcd2852b2279bc7c2c.png",
                 "width": 2550,
                 "height": 3450,
-                "thumbnail": null
+                "thumbnail": {
+                    "path": "public/images/messages/de3e5ec1ff0056dcd2852b2279bc7c2c_thumb.png",
+                    "width": 600,
+                    "height": 812
+                }
             }
         },
         {
@@ -2287,7 +2331,11 @@
                 "path": "public/images/messages/ea08edee7df88eef02602224e2555a5b.png",
                 "width": 2100,
                 "height": 1580,
-                "thumbnail": null
+                "thumbnail": {
+                    "path": "public/images/messages/ea08edee7df88eef02602224e2555a5b_thumb.png",
+                    "width": 600,
+                    "height": 451
+                }
             }
         },
         {
@@ -2557,7 +2605,11 @@
                 "path": "public/images/messages/fb414fe06d77bdfe7d5ad22490b91e96.jpg",
                 "width": 2600,
                 "height": 3333,
-                "thumbnail": null
+                "thumbnail": {
+                    "path": "public/images/messages/fb414fe06d77bdfe7d5ad22490b91e96_thumb.png",
+                    "width": 600,
+                    "height": 769
+                }
             }
         },
         {
