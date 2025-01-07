@@ -1591,6 +1591,14 @@
             "media": null
         },
         {
+            "id": "aabc9a55fff46cad9e553d1fa30eff08",
+            "decal_variant": 2,
+            "sender_name": "saltedbread",
+            "sender_title": "Infinite salt sprung forth from the land of blocks",
+            "message": "Grats on the 1M! I'm pretty sure even you didn't think you'd pull this off, yet all that hard work and perseverance paid off! Your evolution over the years has been insane. I love the confidence that you show on your streams now. You've been an inspiration to a lot of us brats with your dedication and hard work. I'm also glad to have met so much new friends from the brat community. Keep growing and take yourself to new heights in 2025!\n\n",
+            "media": null
+        },
+        {
             "id": "aac126ab8837e87c2e70924ae9b87a58",
             "decal_variant": 4,
             "sender_name": "Nick (Aqours!)",
@@ -1609,8 +1617,14 @@
             "decal_variant": 3,
             "sender_name": "Izumi",
             "sender_title": "The chaotic thigh master",
-            "message": "HAPPY 1 MIL SUBS BAE IM SO PROUD OF YOU",
-            "media": null
+            "message": "HAPPY 1 MIL SUBS BAE IM SO PROUD OF YOU!! I really enjoy your music and dance! You inspired me to be an artist and because of you I can pick up the pen and draw again. THANK YOU AND CONGRATS ONCE AGAIN!!! ♡♡",
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/aca2f6e2fbf859162b816b106fb45afb.webp",
+                "width": 848,
+                "height": 1200,
+                "thumbnail": null
+            }
         },
         {
             "id": "ad287b0d98ac30f07eb50ead20e9e34e",
@@ -2143,6 +2157,20 @@
             }
         },
         {
+            "id": "de3e5ec1ff0056dcd2852b2279bc7c2c",
+            "decal_variant": 4,
+            "sender_name": "SK_Jynx",
+            "sender_title": "Drawer of Rats",
+            "message": "Congratulations on 1,000,000, Bae!! That's an incredible achievement, and hard to imagine how many people that truly is. You're so hard working, and deserving of this amazing milestone! 💖\n\nBe proud of everything you've done! I hope to draw you much more on your road to 2,000,000!~ 😉🎲 (I wish to do another Driptaro for 2025~)",
+            "media": {
+                "type": "Image",
+                "path": "public/images/messages/de3e5ec1ff0056dcd2852b2279bc7c2c.png",
+                "width": 2550,
+                "height": 3450,
+                "thumbnail": null
+            }
+        },
+        {
             "id": "e05ba9fee07e643d6fd27010994c99da",
             "decal_variant": 3,
             "sender_name": "somotodsyo",
@@ -2491,20 +2519,6 @@
                 "path": "public/images/messages/f88a5449766579e0e123d21446e86d2c.jpg",
                 "width": 870,
                 "height": 1805,
-                "thumbnail": null
-            }
-        },
-        {
-            "id": "f89fdfb90e94bbce9c37b435ef421c8f",
-            "decal_variant": 0,
-            "sender_name": "SK_Jynx",
-            "sender_title": "Jynx, Drawer of Rats",
-            "message": "Congratulations on 1,000,000, Bae!! That's an incredible achievement, and hard to imagine how many people that truly is. You're so hard working, and deserving of this amazing milestone! 💖\n\nBe proud of everything you've done! I hope to draw you much more on your road to 2,000,000!~ 😉🎲 (I wish to do another Driptaro for 2025~)",
-            "media": {
-                "type": "Image",
-                "path": "public/images/messages/f89fdfb90e94bbce9c37b435ef421c8f.png",
-                "width": 2550,
-                "height": 3450,
                 "thumbnail": null
             }
         },
