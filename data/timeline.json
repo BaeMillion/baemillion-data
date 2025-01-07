@@ -4924,8 +4924,12 @@
                 "Friendtaro"
             ],
             "media": {
-                "is_youtube": false,
-                "link": "https://youtube.com/watch?v=AYWfYdN9Fds"
+                "is_youtube": true,
+                "video_id": "AYWfYdN9Fds",
+                "path": "https://i.ytimg.com/vi/AYWfYdN9Fds/maxresdefault.jpg",
+                "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAB4AAAARCAIAAABFBIsgAAAFZ0lEQVR4nAXBS28bxwEA4JnZ2Te5XC5J8SGRIvW0LcuWoQgw0MaNESBpUThtARdogPTUQ4AgSP9IgZ6KXnoq4J6K5pYWtZPWVh3XVmXRcizbokRLjkSJ7+W+d2dnp98Hh6/+CBMfikUKeZJECrSTmFLAcTymDHK8lBCf0SBJmCCXAacE1svWsbfAXz/stM9HZ0VKYnPIJOVclFeqy2ld77GnlxYrXGIjDsWCrGI6NhFti9OBXhNllRMUnK5j/XqA5iR9mhd5QoAkBQIaxTGUZdmLQr7fLdumfXZGGUCBt0hjMOglCCEkERTGKR0zlGIIqbqqxWhi91Biup7PiVrIEhgcCyB27UhEMpZF14k46MkSDvzes8Pn5XBSuHiB9iI4aOUMBUDcGXTepslSw+3zS9bAxwxJNIn8wNc4MguJwADhxFMWH8f9KSuYlxQBEYglFthI5AHkx6Y1sTl63mWz1frNnxS6fWvXAzTqdUxIiTu2gqpYw6JhGBgBHyLOcvlMYQlRi9AzhhDgxciJUnpNwoaclhzzME4ClcchYSfjIOglME5qG9fDiJAoODo8D1zPD+OUooox8P0IOW9T2Xm8+aSNIH3v5o8BEFStTGiFMLGYiFNSIgrGyPaoSwRh7aT/yPEjDAj1GfahUJ75anM7renvXp4lfCpdKQAnCCcjzPhYroPs5djawn+688QwUu++/3MG5JhySJjqnZ6RKPCckSB871hDWUkjyCozV49aT0eDwHGYlhYvLqxkAuBCoTg9nf/4k1c7z6NOxx2bOEHMP8RuCKIMtoG3e39vd/c5CaWUZvQ6dzW9wAuCY5uMJYqiIwjb+//znLHrWPnS3Hy6uPX1l48fPr51+yM5ZzABY1FcWmy8cd0J4ilNwmSq/42Zm27g2mq9IM8MR0lWQ7KaxoIIEXQdRxAkz7EAABzGmWwZQBCFge+MPcckfvzs8baaz//017cTQgBgfDbbPumabogIpeOKfW8XD+6iq7Xa1tbWeXfCGFVVnedFnpfTmaysaIKkEkJ81y6UZq9sfLiydqNUXQqd0DoaqYq8fff+P+78LfICGoTNzcchpY0rl+WpUk5I9zJGZ/c5XlmsLSzOTaygvnCtNN0gJJSVFEsSc9Sdv/AOS+IXzfth4Jwe7fGCeLT/FGBYWl/o7nVJt3fa3GtjCfC4emVp9Qcbtm3P2EHUH7vffhVJAq7Wqq3W69XVq7W5Sw+/+et4cKpqhcbClTetHQBhtb48Gpyvrt98/d1/k4TmS4vVxsXd7XvHZ/7tX31UllR/OPZZkq0U//31Q5qASMDr732Q/81n+A+/w4KafWdjPUmSMIyu/+gXD/75l/mldcZCTZ86P2kZ+QrmuYOXTzAvGfmia5u9szdx6H762y/ymsR8W2tUzJFJaGzUq4V/bX5pRzut4w83Nsorl1BKMwrF3IPNB2NzxHFYFCXPm/S7x+Phqe9ZRwdNjKXq3JokiVljyrGGL549klIVNyAv2h0nET3Kq3ompjSOfNY7+eX7N/LF+rfN5tYHP8NpNSdnUpqW7k86mawuqZprWzRGGz+8raZSrdc7tUKjPF1/8J8nf77ze4h5Wc1Yj46Uv2/mc7nPPv9CkXghpmHEeA6Yt261B6O1C3PF/LXtp00M/b3lGfHeyNxvHxTnisbyrMw0npcoi/fbL4cTGyb8weBRVkZ5TS9Nl8pzF7VcsTFbE0UhiMjw+PjS0gyxJhDBRBEy2KtpqFrSGjeuISHsXlvOrm1czRQyISUMQxuP+uCkZb98tf8ddDyei3hFLJeKpVJJESQjq6uKjACjlDZ3mt8fvGYQ9vpDx3E4zFV0payno7dvIS/8H3T+5vMFyKS0AAAAAElFTkSuQmCC",
+                "width": 1280,
+                "height": 720
             }
         },
         {
